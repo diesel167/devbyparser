@@ -1,5 +1,12 @@
 {
   "name": "devbyparser",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "phantom": "^6.3.0",
+    "puppeteer": "^3.0.0",
+    "require": "^2.4.20",
+    "slimer": "0.0.4",
+    "slimerjs": "^1.0.0",
+    "webpage": "^0.3.0"
+  }
 }
