@@ -1,0 +1,3094 @@
+"SpurIT": spurit
+"Сэнтикод": senticode
+*instinctools: instinctools
+//CODEMASTER: codemaster
+°dewpoint: dewpoint
+01D: 01d
+12devs: 12devs
+1PT: onepoint
+21vek.by: 21vek-by
+2TS Engineering: 2ts-engineering
+3ears: 3ears
+3Seven Studio: 3seven-studio
+4D (Четыре Д): 4d-chetyre-d
+5digital: 5digital
+5media: 5media
+5NICE: 5nice
+69pixels: 69pixels
+7Version: 7version
+A-SITE.by: a-site-by
+A1 (Унитарное предприятие "А1"): a1
+a1qa: a1qa
+Abiatec: abiatec-Company
+ABIS (Абсолют Интернет Системс): abis-absolyut-internet-sistems
+ABKonDevelop: abkondevelop
+Absolut Internet Systems: absolut-internet-systems
+Acantek Solutions Ltd.: acantek
+Acarica: acarica
+ACD/Labs: acd-labs
+Acobby Ltd: acobby-ltd
+ActiveCloud: activecloud
+ActiveMedia: activemedia
+ActivePlatform: activeplatform
+ADANI: adani
+Adaptive Studio: adaptive-studio
+Adental: adental
+Adepta: adepta
+Adform BY: adform-by
+Admitad: admitad
+Adroiti Technologies Inc.: adroiti-technologies-inc
+Aetsoft: datapro
+Affinity Digital Agency: affinity-digital-agency
+Affise: affise
+AFRANS: afrans
+AGAT-SYSTEM: agat-system
+AGENTE: agente
+AGM SOFT: agmsoft
+Aheadworks: aheadworks
+AIMATTER: aimatter
+AiMobi Apps: aimobi-apps
+Aiolane: aiolane
+AirConn Bel Technology: airconn-bel-technology
+AIS Novations: ais-novations
+Aisconverse: aisconverse
+Aist Tech: aist-tech
+Aitoc: Aitoc
+AKDev Group: akdev-group
+AKTOK: aktok
+Akvelon: akvelon
+Akveo: akveo
+Albymedia: albymedia
+Alconost: alconost-translations
+Alconost Inc.: alconost-inc
+Alfaweb: alfaweb
+AlgoSec: algosec
+Aligned Code: aligned-code
+Allied Testing: allied-testing
+Almus: almusmediaby
+AlphaByte: alphabyte
+Alpheta Systems: alpheta-systems
+Alseda Consulting: alseda-consulting
+Altgraphic: altgraphic
+Altoros Development: altoros-development
+AltWolf: altwolf
+Alverden Systems: alverden-systems
+Alvitex: alvitex
+Amasty: amasty
+AMediuM: amedium
+AMG: amg
+AMS: ams
+Anadea: anadea
+Anakreon: anakreon
+Andersen: andersen
+AnEvAr: anevar
+Antalika: antalika
+Anvanto: anvanto
+Anventa Technologies: anventa-technologies
+Anveo Ventures: anveo-ventures
+Apalon: apalon
+ApCelp: apcelp
+Apextech: apextech
+APM2 Studio: apm2-studio
+APoint: apoint
+APOSTROFSOFT: apostrofsoft
+AppAgg: appagg
+Applied Smart Systems: applied-smart-systems
+Applied Systems: applied-systems
+Appolo: appolo
+Approvery: approvery
+Appservice: appservice
+Appstud: appstud
+AppsUlove: appsulove
+AppXite: appxite
+Appyfurious: appyfurious
+APRO software: apro-software
+AR Squad: ar-squad
+ArasCorp Development Center: arascorp-development-center
+Arateg: arateg
+Arcadia: arcadia-inc
+Arcom Group: arcom-group
+Arcom Group ltd.: arcom-group-ltd
+Aristek Systems: aristek-systems
+Ariteta: ariteta
+ARKVIT: arkvit
+Armada Labs: armada-labs
+ARSnova: arsnova
+Artcroix: artcroix
+Artezio: artezio
+ArtisMedia: artismedia
+Artocon: artocon
+ARTOX Lab: artox-lab
+ASoft: asoft
+ASPMedia: aspmedia
+ASPsoft.by: aspsoft-by
+Assistent.By: assistent-by
+AST: ast
+Astronim: astronim
+ASWardag: aswardag
+Atevi Systems: atevi
+atmatic: atmatic
+ATOMICHRONICA: atomichronica
+Atomicus: atomicus
+Atreesoft: atreesoft
+Augmentive: augmentive
+Aurius Studio: aurius-studio
+Auxilin: auxilin
+Avanta: meetville
+Aventus IT: it-sprendimay
+Avest: avest
+AVID: avid
+Awagro Style: awagro-style
+Awem Games: awem-games
+AWTG LLC: awtg-llc
+Axamit: axamit-consulting
+Axiom Connected: axiom-connected
+AXIOMA: axioma
+AxiomSoft: axiomsoft
+Axiopea Consulting: Axiopea
+Axonim: axonim
+AxxonSoft: axxonsoft
+Axygens: axygens
+Azati: azati
+B2B-Center: b2b-center
+BA Solutions: ba-solutions
+Bamboo Apps: bamboo
+Bamboo Group: bamboo-group-ou
+Banuba Development: banuba-development
+Baseline marketing: baseline-marketing
+BayQaTraining, Inc: bayqatraining-inc
+BearDev: beardev
+BeatDev: beatdev
+beCloud: becloud
+Beesender: beesender
+BelAbat: belabat
+BelaBios IOOO: belabios-iooo
+Belatragames: belatragames
+BELHARD: belhard
+Beliani: beliani
+BelitSoft: belitsoft
+Belka Games: belka-games
+BelPrime: belprime
+Beltechsoft (Белтехсофт): beltechsoft-beltehsoft
+Beltelecom: beltelecom
+BelVG: belvg
+BESK: besk
+Bevalex: bevalex
+BFB Capital: bfb-capital
+BGSoft: bg-soft
+Biclast solutions: biclast-solutions
+Big Data Technologies: bigdata-technologies
+Biggiko: biggico
+BillingPlatform Corp: billingplatform-corp
+BIM Machine: bim-machine
+Bimium: bimium
+BinaryLabs: binarylabs
+Binatomic: binatomic
+Binitex: binitex
+BioSoftTrade: biosofttrade
+BIT MEDIA SOFT: bit-media-soft
+Bit-Apps: bit-apps
+bitnet: bitnet
+BitSol IT Solutions: bitsol-it-solutions
+BIVIAR Partners: biviar-partners
+BKsoft: bksoft
+Black Beacon: blackbeacon
+BldSoft: bldsoft
+Bobaka: bobaka
+BookYourStudy: bookyourstudy
+Boolba Labs: boolba-labs
+Bostil Support: bostil
+BP Mobile: bp-mobile
+BrainForce: brainforce
+Brainkeeper: brainkeeper
+Bright Solutions: bright-solutions
+Brightgrove: brightgrove
+Brimit: brimit
+BSL: bs-lab
+BSVT - NT: bsvt-nt
+BTC: btc
+BTC group: btc-group
+Bulba Ventures: bulba-ventures
+Bulberry: bulberry
+Burstly Inc.: burstly-inc
+BuzzGuru: buzzguru
+BWS-Studio: bws-studio
+ByCenter: bycenter
+Byelex Multimedia Products: byelex-multimedia-products
+BYLECTRIC: bylectric
+BYRIL: byril
+C2labs: c2labs
+CactusSoft: cactussoft
+Caffesta: caffesta
+Call-tracking.by: call-tracking-by
+Capsilon: capsilon
+Caspel: caspel
+Caspowa: caspowa
+CatalogLoader: catalogloader
+Cedon BLR: cedon-blr
+Centaurea: centaurea
+CertChain: certchain
+Certumsoft: certumsoft
+CETC: cetc
+ChainArtSoft: chainartsoft
+ChangeAgain.me: changeagain
+Check Point Software Technologies Ltd.: check-point-software-technologies-ltd
+Cheday: cheday
+CIB software: cib-software
+Ciklum: ciklum
+Cinema Lab: cinema-lab
+CleverApp: cleverapp
+CleverLabs: clever-labs
+Clevertec: clevertec
+Clickmedia: clickmedia
+cLogic: clogic
+CloudCall BY: cloudcall-by
+Cluster Systems: cluster-systems
+CMTech: cmtech
+Code Inspiration: code-inspiration
+CodeCave: codecave
+CodeWell Soft: codewell-soft
+Codex Software: codex-soft-llc
+Coding Staff: coding-staff
+Cogniteq: cogniteq
+Cognitive Technologies: cognitive-technologies
+Coinmatics: coinmatics
+Collab IT: collab-it
+Colvir Software Solutions: colvir-software-solutions
+Compit Group: compit-group
+ComplITech: llc-complitech
+Concept Soft: concept-soft
+ConnectOne: connectone
+Consensuslab: consensuslab
+CoolHeads Digital: coolheads-digital
+Coral Team: coral-team
+Core5: core5
+Corpitech: corpitech
+Cortlex: cortlex
+Cotvec: bank-soft-innovation
+Craft: craft
+Crears Systems: crears-systems
+Createx: kreyteks
+CreativeIT: creativeit
+Credentially: doktor-fokusd
+Credo-Dialogue: credo-dialogue
+Crossix Solutions: crossix-solutions
+CrowdTechnologies LLC: crowdtechnologies-llc
+Crypti: crypti
+Cryptocode: cryptocode
+CSFactory: csfactory
+CTDEV: ctdev
+Currency.com: currency-com
+Cuspy Software: cuspy-software
+Custodesk: custodesk
+Customertimes Corp: customertimes-corp
+Cyber Cradle: cyber-cradle
+Cyberport: cyberport
+Cygno Solutions: cygno-solutions
+D8 Corporation: d8-corporation
+Dana Networks: dana-networks
+DANOVA: danova
+DashBouquet Development: dashbouquet-development
+Datahata: datahata
+DataMola: up-deytamola
+DataRobot: datarobot
+datarockets: datarockets
+DAX Service: dax-service
+DAX service: dax-service-archive
+Daymare Web Studio: daymare-web-studio
+De Facto soft: de-facto-soft
+Debitrum Development: debitrum-development
+Deepdee: deepdeeorg
+DEIP: deip
+Dektry: dektry
+Delium: delium
+Dell: ooo-anstopobl
+DELVE: delve
+Designstation: designstation
+Dev Team: aytief
+dev.by: dev-by
+Devicepros: devicepros
+DevsRemote: devsremote
+DevStars: devstars
+DEVXED: devxed
+dfgdfgdf: dfgdfgdf
+DGpro: dgpro
+Diesel Puppet: diesel-puppet
+Digesta Digital: digesta-digital
+Digital Forest: digital-forest
+Digital Top: digital-top
+Digital Unicorn: digital-unicorn
+Digitalizm: digitalizm
+DigiTech7: digitech7
+Digiteum: digiteum
+DiscreteMind: discretemind
+Distillery: rus-wizards
+Ditrix-Soft: ditrix-soft
+Dizzain: dizzain
+DMTech: dmtech
+dotdigital: dotmailer
+DPI.Solutions: dpi-solutions
+Dream Support: dream-support
+Dreampix: dreampix
+DreamTeam Mobile: DreamTeamMobile
+Dual Lab: dual-lab
+Dynamic Games: dynamic-games
+Dynamics-AX service, Limited: dynamics-ax-service-limited
+DYNEVO: dynevo
+DZENSOFT: dzensoft
+E-vision: e-vision
+Eagle Dynamics: eagle-dynamics
+EasyProjects.NET: easyprojects-net
+EBS Partners: ebs-partners
+eComCharge LLC: bepaid
+Ecsat-bel: ecsat-bel
+EDALITY: edaliti
+Efectura: ooo-effektura
+Effective Solutions International: effective-solutions-international
+EffectiveSoft Ltd.: effectivesoft-ltd
+Efir Media: efir-media
+Egamings: egamings
+EGAR Technology: egar-technology
+Egorov Agency: egorov-agency
+Eightydays.me: eightydaysme
+EIS Group: eisgroup
+EKA-Soft: eka-soft
+Elab Media: elab-media
+ElateSoftware: elatesoftware
+EleganceIT: eleganceit
+Elinext: elinext
+Ellipsoit Plus Ltd: ellipsoit-plus-ltd
+ElmoSoft: almorsoft
+ELTEAM GROUP: cuspy-technology-group
+Emerline: emerline
+Enable IT: enable-it
+ENAVATE: enavate
+EnCata: encata
+EngineIT: engineit
+Enixar: enixar
+Eon Games: eon-games
+EPAM: epam-systems
+EPICA: epica
+Epicmax: epicmax
+Epio IT University: epio-it-university
+Epol Soft: epolsoft
+Ergalio: ergalio
+Espectro: espectro
+EssentOptics Ltd: essentoptics-ltd
+ETNA: etna-software
+EukodyneSystems: eukodynesystems
+Everymove: everymove
+EVOKE Systems: evoke-systems
+Evolution Gaming: evolution-gaming
+eWave: ewave
+Exadel: exadel
+Excite Technologies: excite-technologies
+ExonIT: exonit
+exp(capital): exp-capital
+Expansa Group: expansa-group
+Expert Soft: expert-soft
+Exposit: exposit
+ExtBel: ooo-ekstbel
+Extmedia: extmedia
+Exto eCommerce: exto
+Extrit.by: extrit-by-internet-marketing
+EY Digital: ey
+Ezeme: ezeme
+Faber Studio: faber-studio
+Factory 16: factory-16
+FastServe: fastserve
+Feeling Digital: feeling-digital
+Fermium: fermium
+FIN.by: fin-by
+Fingers media: fingers
+Finin: infin
+Finstek: finstek
+Finvinci: finvinci
+Firedome: firedome
+FirstBeatMedia: firstbeatmedia
+Fitbit: fitbit
+Fively: fively
+Flashphoner: flashphoner
+Flatlogic: flatlogic
+Flex.Media: flex-media
+Flexbl: flexbl
+FLLC SEAVUS: fllc-seavus
+Flo Health: flo-by-owhealth
+Fly Fish Soft: fly-fish-soft
+Flypika: flypika
+Foranx: foranx
+FORANX LLC: foranx-llc
+Forrards Group: forrards-group
+Forte Group: forte-group
+Fortumo Ltd: fortumo-ltd
+Fortune Systems: fortune-systems
+FPD: fpd
+Francysk Group: francysk-group
+Fresh Lemon Soft LLC: fresh-lemon-soft-llc
+Freshly Data LLC: freshly-data-llc
+FriendlyData / ФД Девелопмент: ooo-fd-development-friendlydata
+Front-Devs: front-devs
+Frontbyte: frontbyte
+Full Scale: full-scale
+Full Spectrum Systems: full-spectrum-systems
+FUNGI studio: fungi-studio
+Funler: funler
+FuryLion Group: furylion-studios
+Fusiontech: fusiontech
+g-4: g-4
+G-Core Labs: g-core-labs
+G-Lock Software: g-lock-software
+Galantis: galantis
+Gambino: gambino
+Gameloft: gameloft
+GBSoft: gbsoft
+Geek-Solutions: geek-solutions
+GeliosSoft: geliossoft
+Generic Solution: generic-solution
+Generint: generint
+Genesis Apps: genesis-apps
+GenSolutions: gensolutions
+Geomotiv: Geomotiv
+GERSIS SOFTWARE: gersis-software-llc
+getbob digital agency: getbob-digital-agency
+GetSpace: getspace
+GetYourMap: getyourmap
+GGWP: ggwp
+GICSOFT: gicsoft
+Gismart: gismart
+Global Sense LLC: global-sense-llc
+Globant: Globant
+GlowByte Consulting: glowbyte-consulting
+Godel Technologies Europe: godel-technologies-europe
+Gofrobum: gofrobum
+Golden Software of Belarus, Ltd: golden-software-of-belarus-ltd
+GoodSoft: goodsoft
+Goozix: goozix
+GP Solutions: gp-solutions
+Gradient: gradient
+Green Moon: green-moon
+GreenAnt: greenant
+Greenwall Systems: greenwall-systems
+Gresbi: vianit
+Grinteq: grinteq
+GRIZZLY DIGITAL COMPANY: grizzly-digital-company
+Gurtam: gurtam
+Gusarov Group: gusarov-group
+GWWT Development Solutions: gwwt-development-solutions
+HA – Interactive brand studio: ha-interactive-brand-studio
+Hackspace: hackspace
+HardCode: hardcode
+HardSoft Robotics: hardsoft-robotics
+Heapix Development: heapix-development
+helenova: helenova
+Helmes Bel: helmes-bel
+HES FinTech: hes-fintech
+Heyworks: heyworks
+HF-Solution: hf-solution
+Hibercon Technologies: hibercon-technologies
+HighLevel: highlevel
+Hipway: hipway
+HiQo Solutions: hiqo-solutions
+Hitbox: random-development
+Holiday.by: holiday-by
+HolyTransaction: holytransaction
+HOSTER.BY: noname
+HostFly.by: hostfly-by
+HQSoftware: hqsoftware
+HRBA: hrba
+hsdjfhbsdjhfb: hsdjfhbsdjhfb
+HumanoIT Group: humanoit-group
+Humans: humans
+humansee labs: humansee-labs
+HYPERVSN (by Kino-mo): kino-mo
+Hytex Solutions Ltd: hytex-development-studio
+I Got Games (IGG): i-got-games-igg
+ib.by: ib-by
+IBA Gomel: iba-gomel
+IBA Group: iba-group
+iCode: ooo-umnyy-kod
+ICOGURU: icoguru
+ICON Games: icon-games
+ID Finance: id-finance
+IDA Technologies: ida-technologies
+Ideanomix Digital: ideanomix-digital
+IdeaSoft: ideasoft
+IdeaWebLab: ideaweblab
+iDiscount Ltd: idiscount-ltd
+IDLab: idlab
+IDS: ids
+IDT Belarus: idt-technologies
+iFuture: ifuture
+IGIES: igies
+IGROTEK: igrotek
+Ihighload: ihighload
+IHS Markit: ihsmarkit
+iKantam: ikantam
+Iksanika: iksanika
+ilavista: ilavista
+Impet: impet
+inCaller: incaller
+InData Labs: indata-labs
+INDI: indi
+Indigo Bunting: indigo-bunting
+InGrid Lab: ingrid-lab-ltd
+inNativeLife / ShaurmaLab: innativelife-shaurmalab
+Innovative Future Technologies: innovative-future-technologies
+Innovative Internet Technologies: innovative-internet-technologies
+InSales: insales
+InSoft Engineering: insoft-group
+Insollo Entertainment: insollo-entertainment
+Inspectorio: inspectorio
+Instamotor Bel: instamotor
+intelex: intelex
+INTELICO: intelico
+Intellect IT: intellect-it
+Intellect Motion: intellect-motion
+Intellectsoft: intellectsoft
+Intellectual Quality: intellectual-quality
+Intelligent Urban Systems: intelligent-urban-systems
+InterDelight: interdelight
+Intergalactic development: intergalactic-development
+Internetix: internetix
+InterTech Solution: inter-tech-solution
+Intervale: intervale
+Interweb: interweb
+Intetics: intetics
+IntexSoft: intexsoft
+InToSoft: intosoft
+Intrahealth (Nikta): intrahealth-nikta
+Invatechs Software: invatechs
+Invelio: invelio
+Invento Labs: inventolabs
+InvestCity: investcity
+IP Telcom: ip-telcom
+IPonWEB: iponweb
+IPOS.BY: ipos-by
+IQClash: iqclash
+ISD Studio: isd-studio
+Ispirer Systems: ispirer-systems
+ISsoft: issoft
+IT Band Systems: it-band
+IT Partner: it-partner
+IT Training Center (Belsoft): it-training-center-belsoft
+it_wave: it_wave
+IT-Form: it-form
+IT-школа Myfreedom: it-shkola-myfreedom
+ITA ( Information Technology Alliance Ltd.): ita-information-technology-alliance-ltd
+itactive / Итектив: itactive-itektiv
+ITB / Информационные технологии бизнеса: itb-informatsionnye-tehnologii-biznesa
+ITBELCOM: itbelcom
+itc: itc
+iTechArt Group: itechart-group
+Itexus Soft: itexus-soft
+ITGENIO: itgenio
+ITGroup: itgroup
+ITHub: ithub
+itictory: itictory
+ITM House: itm-house
+ITMEDIA: itmedia
+ITMINE: itmine
+ITNavis: itnavis
+IToris: itoris
+ITOS: itos
+itpro: itpro
+Itransition: itransition
+ITRex Group: itrex-group
+ITS Partner: its-partner
+ITSoft: itsoft
+ITStrategy: itstrategy
+ITSupportMe: itsm
+ittc: ittc
+ITUnit: itunit
+ITWAY: itway
+ITzone: itzone
+Ivelum: ivelum
+iXBT: ixbt
+JayDevs: jaydevs
+Jazz Pixels: jazz-pixels
+JazzTeam: jazzteam
+JET BI: jet-bi
+Jet Technologies-Bel: jet-technologies-bel
+JETWEB: jetweb
+JLLC CLABS: jllc-clabs
+JLLC OZONE Consulting: jllc-ozone-consulting
+Jnetworks: jnetworks
+Jordan Traffic: jordan-traffic
+JSC Peleng: jsc-peleng
+JSC Solo: jsc-solo
+Just Studio: just-studio
+JVL (ДжэйВиЭл корпорэйшн): jvl-dzheyviel-korporeyshn
+K&K Technologies: k-k-technologies
+Kairus: kairus
+Kakadu Dev: kakadu-dev
+Karamba Security: karamba-security
+Kariid: kariid
+Kaseya: kaseya
+Keiss Media Bel: keiss-media-bel
+Key Group: key-group
+KeySequences: keysequences
+Kibernetiko: kibernetiko
+Kiosk Solutions: kiosk-solutions
+Kitkard: kitkard
+kjkjkj: kjkjkj
+Klika Tech: klika-tech
+KM Lab: km-lab
+Knomary: knomary
+Komspek: Komspek
+Kontur: kontur
+KREADO OHG: kreado-ohg
+Kufar: kufar
+KVITKI BY: kvitki-by
+Kyriba Engineering, LLC: edc
+LabelSoft: labelsoft
+Labinvent: labinvent
+Labrax Studio: labrax-studio
+Labs64 GmbH: labs64-gmbh
+Lamanteam: lamanteam
+Lansoft: lansoft
+Lappa: lappa
+launchOptions: launchoptions
+LeCode group: lecode-group
+LegaSystems: legasystems
+Lepshey: lepshey-studio
+LeverX: leverx
+lifetech: lifetech
+Light Well Organization: light-well-organization
+Lightpoint Global: lightpointglobal
+Lime-Express: lime-express
+Lingvanex: lingvanex
+LINKOR: linkor
+Liquid Pug: liquid-pug
+Litussoft: litussoft
+Litvinsky: litvinsky
+LiveLabels: livelabels
+LIVETREND CONSULTANTS LIMITED: livetrend-consultants-limited
+LLC AG Software: llc-ag-software
+LLSOFT: llsoft
+Logic Software: logic-software
+Logic Way: logic-way
+LogicLike: logiclike
+Looperoom™ Interactive: looperoom-interactive
+Lotasoft: lotasoft
+LoudMind: loudmind
+LOVATA: lovata-group
+Lunas: lunas
+Luware AG: luware-ag
+Lyte: lyte
+M-sc: m-sc
+M.I.TGroup: m-i-tgroup
+MADCODERS: madcoders
+Magedia: magedia
+Mainsoft: mainsoft
+MajorDoMo: majordomo
+Maksis Digital Agency: maksis-digital-agency
+Malanka: malanka
+Mamboo Games: mamboo-games
+Manao: manao
+Mango City: mango-city
+Manufact: manufact
+Map.by: map-by
+Mapbox: mapdata
+MAPS.ME: mapswithme
+Marccoon Digital: web-studiya-full-stack
+Marco: marco
+Masquerade: masquerade
+Master-M: master-m
+Masterlink.by: masterlink-by
+Masterstroke LTD: masterstroke-ltd
+matchbox: matchbox
+Maxbitsolution: ooo-maksbitsolyushen
+MAXI.BY media: maxi-by-media
+Maygem: maygem
+MBicycle: mbicycle
+MecaSoft: mecasoft
+MediaCity Communications: mediacity-communications
+mediacube: mediacube
+Medialine: medialine
+Medical software solutions: medical-software-solutions
+MEG Analytics: meg-analytics
+Megarost Group: megarost-group
+MegaSOFT: up-gis-belsoft
+Megatel GmbH: megatel-gmbh
+Melsoft Games: melsoft
+MEMOS Outsourcing: memos-outsourcing
+METAGILE: metagile
+Metatag Digital: metatag-group
+Mifort: mifort
+MikroKods Ltd.: mikrokods-ltd
+Millcom: millcom
+Mitrix Technology: mitrix-technology
+Mitto AG: mitto-ag
+MixMedia: mixmedia
+Mobiletag: mobiletag
+MOBYRIX: mobyrix
+ModIS-M Software Corporation: modis-m-software-corporation
+Molimo: molimo
+monostack: monostack
+Monterosa: monterosa
+Mraid.io: mraid-io
+Mühlemann & Popp Online Media AG: m-hlemann-popp-online-media-ag
+Multi Parts: multi-parts
+Multy.io: multy-io
+Myagi: myagi
+MyCloud: mycloud
+MyNetDiary Inc: mynetdiary
+NamviSoft / НамвиСофт: namvisoft
+NaStarte.by: nastarte-by
+Nasty Creatures: nasty-creatures
+NeatTech: neattech
+Neotech: neotech
+Nero Electronics: nero-electronics
+NeskinSoft: neskinsoft
+Net Games Laboratory: net-games-laboratory
+Netcracker: netcracker
+Netologic: netologic
+Neutrino Cat: neutrino-cat
+New Wave Software: new-wave-software
+NEWLAND technology: newland-technology
+Next Level: next-level
+Next Network: next-network
+Nezaboodka Software: nezaboodka-software
+NGWeb: ngweb
+Nilitis LLC: nilitis-llc
+Nineseven: nineseven
+Nitka Technologies: nitka-technologies
+Nival: nival
+Nord-Soft: nord-soft
+NORDMOUNT: nordmount
+Novacom: novacom-a-softline-company
+NSITE STUDIO: nsite-studio
+NT Technology: nominal-tehnologies
+NTLab: ntlab
+NTS: nts
+NUBIKO: nubiko
+NX Studio: nx-studio
+ObjectStyle: objectstyle
+Ocean Development: ocean-development
+OCSICO: ocsico
+Octonion Technology: octonion
+Octopus Games: octopus-games
+Odysseus Data Services Inc.: ooo-odisseus-data-servises
+Offsiteteam: offsiteteam
+Olimpia: olimpia-by
+OmegaSoftware: omegasoftware
+OMERTEX: omertex
+Omicron Soft: omicron-soft
+OMLOOK: omlook
+On The Spot Development: on-the-spot-development
+Onde: onde
+OneSoil: onesoil
+OneTwoTrip: onetwotrip
+Onilab: onilab
+Onix: onix
+OOO "Кодэксперт": code-experts
+OOO "ЭСТАЖЕМА": estazhema
+OOO "ЮВР": ooo-yuvr
+OOO Linkas: ooo-linkas
+OOO NORTH IT GROUP: ooo-north-it-group
+OOO Social Network Media: ooo-social-network-media
+OpenMyGame: openmygame
+Optixsoft: optixsoft
+OrangeProcess: orangeprocess
+Orangesoft: orangesoft
+Orbit-Soft: orbit-soft
+Oriole DB Inc.: oriole-db-inc
+Orion Soft: orion-soft
+Ormedia: ormedia
+Ormin: ormin
+OtherControls: othercontrols
+outstaffing.me: outstaffing-me
+Oxagile: oxagile
+OxGroup: oxgroup
+OZiTAG: ozitag
+Palessit: palessit
+PandaDoc: pandadoc
+Paprikash.Works: paprikash
+ParaBox: parabox
+Paralect: paralect
+Paspalum: paspalum
+Pax: pax
+Pay-Me: pay-me
+Payever: payever
+PCMarket: pcmarket
+PEERCLICK: peerclick
+PHPDev: phpdev
+Pi-consult: pi-consult
+Piplos Media: piplos-media
+Pitri: pitri
+Pix Media: pix-media
+Pixelhead: pixelhead
+PixelPlex: pixelplex
+PJ Software: pj-software
+Platform.io: platformio
+Playgendary: playgendary
+Playtika: playtika
+PM&S Software GmbH: pm-s-software-gmbh
+PMtech, LLC: pmtech
+Pokupay.by: pokupay-by
+polygon.by: polygonby
+Postindustria: postindustria
+PowerMeMobile: powermemobile
+PRAS: pras-by
+Predizo, LLC: predizo-llc
+Prisma Soft: prisma-soft
+Pro Stream: pro-stream
+Productive Edge, LLC: productive-edge-llc
+Profiserv: profiserv
+Profitero: profitero
+ProgzIT: progzit
+Promwad: promwad
+Propellers: propellers
+ProSites: prosites
+ProteiQ: proteiq
+Proweb: proweb
+PS-Studio: ps-studio
+PSA Development Center: psa-professional-software-associates
+PST Labs LLC: pstlabs
+Pure: pure
+Pyramid Studio: pyramid-studio
+q.solutions: qsolutions
+QA Academy: qa-academy
+QPie: qpie
+Quadro Game Studio: quadro-game-studio
+Quadrosoft: quadrosoft
+Qulix Systems: qulix-systems
+R-Style Lab: r-style-lab
+Railsware: railsware
+RaiseTech: raisetech
+Rationale: rationale
+Razam Group: razam-group
+RecruitLoop: recruitloop
+Red Graphic Interactive Agency: red-graphic-interactive-agency
+Red Technologies: red-technologies
+Redalpha: redalpha-leveris
+RedFox (ООО "Ред Групп": redfox-ooo-red-grupp
+Redline: redline
+REDNAVIS: rednavis
+RedStream: redstream
+REID Consulting: reid-consulting
+Remedy Point Solutions, Inc: remedy-point-solutions-inc
+Resilio BLR: bittorrent-blr
+Revoltech LLC: revoltech-llc
+Revotech: revotech
+Rexpax: rexpax
+RichBrains: richbrains
+RINGL Technologies: ringl-technologies
+RiseArrow: risearrow
+RocketBody: rocketbody
+RocketData: rocketdata
+Rocketscience LLC: llc-rocketscience
+RocketScience.ai: rocketscience-ai
+Rocky Media: rocky-media
+Rodmon Systems: rodmon-systems
+ROOTin LTD: rootin-ltd
+RovarSoft: rovarsoft
+Rovensys: rovensys
+Rozum Robotics: rozum-robotics
+RozumSoft: rozumsoft
+RozumSystems: rozumsystems
+RT PROJECTS: rt-projects
+Rubycon Development: rubycon-development
+Rubyroid Labs: rubyroid-labs
+Runa Systems: runa-systems
+Ryxol Solutions: ryxol-solutions
+Sababa Labs: sababa
+Salestime: salestime
+SaM Solutions: sam-solutions
+Samanta Technologies: samanta-technologies
+SASecurity Group: sasecurity-group
+Satellite Innovations, Inc.: dvlp-labs
+SayGames: saygames
+SBCGroup: sbcgroup
+SCAND: scand
+Scheduler, LLC: scheduler-llc
+SchoolBook: school-book
+ScienceSoft: sciencesoft
+Scorum: scorum
+Screen Customs s.r.o.: screen-customs-s-r-o
+SDevs: sdevs
+SearchInform: searchinform
+Sellwin System: sellwin-system
+Semantica-IT: semantica-it
+SENLA: senla
+Sensor Tower: sensor-tower
+SEO Круг: seo-krug
+Seodev: seodev
+SEOTAG: seotag
+Serpico: serpico
+Serverspace.by: serverspace-by
+Severex: severex
+SHANCE GAMES: shance-games
+Sharekey: sharekey
+Sheep Apps: sheep-apps
+ShopTo.By: shopto-by
+Sideways 6: sideways-6
+siera technolodji: siera-technolodji
+Signals Lab: signals-lab
+Silicon valley software group (svsg): silicon-valley-software-group-svsg
+Silk Data: silk-data
+SimpITy: simpity
+Simple Solutions: simple-solutions
+Simplepoint: simplepoint
+Singular Advertising: singular-advertising
+Singulart: singulart
+Sirion Soft: sirion-soft
+SITECH: sitech
+SiteFactory: sitefactory
+Sitewood: sitewood
+Sitronics Telecom Solutions: sitronics-telecom-solutions
+SivinTech Group: sivintech-group
+SK hynix memory solutions Eastern Europe: SK-hynix-memory-solutions-Eastern-Europe
+SKDO Systems: skdo
+SkillUP: skillup
+Skybuffer: skybuffer
+Skynet Applied Systems: skynet-applied-systems
+Skynetix: skynetix
+Skyrocket: skyrocket
+Skywind Group: skywind-group
+SLAM: slam
+SLSgroup: slsgroup
+Smart IT: smart-it
+Smart Satu: smart-satu
+Smart Vision Technologies: smart-vision-technologies
+SmartApp: smartapptech
+SmartDesign: SmartDesign
+SmartexLab: smartexlab
+Smartgraf: smartgraf
+SmartItSolutions: smartitsolutions
+Smartym Pro: smartym-pro
+Snowd security OU: ooo-edinye-resheniya
+Social Discovery Ventures: social-discovery-ventures
+Social Hunters: social-hunters
+Socialmart: socialmart
+SODAQ: sodaq
+Soft-FX: soft-fx
+Soft-staff: soft-staff
+Soft4Brokers: soft4brokers
+Softacom: softacom
+Softarex Technologies, Inc.: softarex-technologies-llc
+SoftClub: softclub
+Softeq Development: softeq-development
+Softgreat: softgreat
+Softline: softline
+SoftLook: softlook
+SoftMatrix: softmatrix
+Softo: softo
+Softologies Inc.: softologies-inc
+SoftonWay: softonway
+Softprom: softprom
+SOFTSIA: softsia
+SoftSwiss: softswiss
+SoftTeco: softteco
+SoftUniq: softuniq
+Software Innovations: software-innovations
+Solarwinds: solarwinds
+SolbegSoft: solbegsoft
+Solid Expert: solidexpert
+Solvd, Inc.: solvd-inc
+SolveIt: solveit
+Solvy R&D: solvy-r-d
+SONETICO: sonetico
+SPACE | EventSpace.BY: space
+SpaceDog: spacedog
+Spappl inc.: spappl-inc
+Sparkler Soft: sparkler-soft-llc
+Specific-Group: specific-group
+SpiralScout: spiralscout
+SplitMetrics: splitmetrics
+Sporso: sporso
+Sport.com: sport-com
+SpringWeb: springweb
+Spritecs: Spritecs
+SQILSOFT: sqilsoft
+SQUALIO: SqualioBelarus
+Staarter: staarter
+Stack by Appodeal: appodeal
+STACKLEVEL: stacklevel
+Starcostudio: starcostudio
+Stark Games: stark-games
+Start Matter: start-matter
+Startup StilDi: startup-stildi
+Steel Monkeys: steel-monkeys
+SteelSteedStudio: steelsteedstudio
+Stellio Team: stellio-team
+STK: stk
+Stormnet: stormnet
+Storyline: storyline
+Storymode: storymode
+Straut & Skobelev: straut-skobelev
+StyleSoft: stylesoft
+Success Craft: ooo-saktsess
+Suistapps: suistapps
+SumatoSoft: sumatosoft
+Support.by: supportby
+SVAPS Systems: svaps-systems
+swargo studio: swargo-studio
+SWD: swd
+SWS: programmnye-resheniya-plyus-sws-plus
+Sy-it plus: sy-it-plus
+Syberry: syberry
+SymfonyArt: symfonyart
+SYNERGY-CONSULTING: synergy-consulting
+Synesis: synesis
+Synesis sport: synesis-sport
+Synesis Stratus: synesis-stratus
+Sysprog: sysprog
+Sytech Bel: sytech-bel
+TadamGroup: tadamgroup
+Talaka: talaka-by
+Talenya: talenya
+Tanix Group: tanix-groupp
+Tapston: tapston
+Taqtile: taqtile
+Targetprocess: Targetprocess
+TargSoft: ooo-targsoft
+TeachMeSkills: teachmeskills
+TeachMeSkills (ТичМиСкиллз): teachmeskills-tichmiskillz
+Tealium: tealium
+TecArt: techwonks
+TechMedia: techmedia
+Technoton Engineering: technoton-engineering
+Techvice LLC: techvice-llc
+Tectus Media: tectus-media
+Tegrosoft: tegrosoft
+Teleolabs: teleolabs
+Telescopia: telescopia
+Telesphor Software: telesphor-software
+Teqniksoft: teqniksoft
+TerraScale LLC: terrascale-llc
+Texode Technologies: texode-technologies
+The Landing Page: the-landing-page
+The piJnz Group: the-pijnz-group
+TheHamon: thehamon
+Think Data Insights: think-data-insights
+ThinkPay: thinkpay
+TikGames: tikgames
+Timvero: timvero
+Todes: todes
+Toptal: toptal
+TOTL Center Group: totl-center-group
+Touchlane: touchlane
+TouchSoft: touchsoft
+Track-POD: track-pod
+Tracker Technologies: tracker-technologies
+Trakhtenberg Consulting Agency: trakhtenberg-consulting-agency
+TravelLine: travelline
+TravelSoft: travelsoft
+TravoLab: travolab
+TRexSoft: trexsoft
+Triggre Studios: triggre-studios
+Trilan: trilan
+Truly Social Games: truly-social-games
+TulaCo: tulaco
+TurboHeads: turboheads
+Turbomates Soft: turbomates-soft
+TUT.BY / HOSTER.BY: tut-by-hoster-by
+Twinslash: twinslash
+Twistellar: twistellar
+uMobilizer: umobilizer
+UNET.BY: unet-by
+Unicoding: unicoding
+Union Progress: union-progress
+UNIQ Digital: uniq-digital
+Unisender: unisender
+UnitedTM: unitedtm
+UniTesS: unitess
+Unmanned Helicopters Ltd.: unmanned-helicopters-ltd
+Unum: unum
+UPH Global: uph-global
+Upsilon-It: upsilon-it
+Urbis Брест: urbis-brest
+US Belar IT Group: us-belar-it-group
+UseResponse Inc: useresponse-inc
+UserExperience: userexperience
+UXpresso: uxpresso
+VarIT: varit
+Velmie: velmie
+VelvetDEV: velvetdev
+Vertic: vertic
+Verv: verv
+VG Group: vg-group
+VIAcode: viacode
+Viber: viber
+VibroBox: vibrobox
+Vigbo: vigbo
+Vilia: vilia
+Vilparts: vilparts
+viplay: vaypley-media
+Vipline: vipline
+VipSites: vipsites
+VironIT: vironit
+Visata Systems, LLC: visata-systems-llc
+Visiprise: visiprise
+Visutech System Ltd.: visutech
+VitLab: vitlab
+Vivim: vivim
+Vizarion Software: vizarion-software
+Vizor Games: vizor-games
+Vladimir Kozlovsky Lab: kozlovskilab
+Vochi: vochi
+Voloshin IT Agency: voloshin-it-agency
+VPI Systems: vpi-systems
+VRP Consulting: vrp-consulting
+VRTek: vrtek
+vServices LTD: vservices-ltd
+WakeApp Development: wakeapp-development
+Wandle: wandle
+WANNABY: wannaby
+Warecorp: warecorp
+Wargaming / Гейм Стрим: wargaming-geym-strim
+Waste Logics Software Limited: waste-logics-software-limited
+WaveOC Pte Ltd.: waveoc-pte-ltd
+Wazimo: wazimo
+weable.io: weable-io
+Weavora: weavora
+Web Focus: web-focus
+Web Marketing: web-marketing
+Web VIKI: web-viki
+Web-agent.by: web-agent-by
+Web-design Studio Company HoD: web-design-studio-company-hod
+Web2 Innovation: web2-innovation
+WebAtom: webatom
+Webbox: veb-studiya-webbox
+WebBuild: webbuild
+WebCat: webcat
+WebileSoft: webilesoft
+WebMatrix: webmatrix
+WebNewUp: webnewup
+WEBPAY (ООО "ВЕБ ПЭЙ"): webpay-ooo-veb-pey
+WebProfi.me: ap-studio
+WebRocco: webrocco
+WebSfera: websfera
+Wedextim: wedextim
+Wellnuts creative group: wellnuts-creative-group
+WERBDESIGN: werbdesign
+WeSafeAssistance: wesafeassistance
+West Ost Union (BUSLIK): west-ost-union-buslik
+Wheemplay: wheemplay
+Wild Spike: wild-spike
+Wimix: wimix
+Wisercat Software: wisercat-software
+Wizart: wizart
+WM Reply: wm-reply
+WordPress development agency "Seattleby": wordpress-development-agency-seattle
+WorkFusion, Inc.: workfusion-inc
+WorkSoftBench: worksoftbench
+Wowmaking: wowmaking
+WoxLink Development: ooo-vokslink-development
+WSP-Design: wsp-design
+X-creative: x-creative
+XB Software: xb-software
+Xform Computing Inc.: xform-computing-inc
+XLogics: xlogics
+Xmark: xmark
+XPGraph: xpgraph
+XPRIDE: xpride
+Xtrematic: xtrematic
+Y-NODE Software: y-node-software
+YayFon Technologies: yayfon-technologies
+Yellow: yellow
+Yopolis Lab, LLC: yopolis-lab-llc
+Yotec: yotec
+YUDWAY LLC: yudway-llc
+Z-Wolves Development: z-wolves-development
+Zenith Media: zenith-media
+Zensoft: zensoft
+Zephyr Mobile: zephyr-mobile
+ZIEX: ziex-media
+Zifferblatt: zifferblatt
+Zorachka Soft: zorachka-soft
+Zorka.Mobi: zorka-mobi
+ZubrSoft: zubrsoft
+А2 Консалтинг | A2 Consulting: a2c
+Аверсон-Софт: averson-soft
+Автоматизация - 2000: avtomatizatsiya-2000
+АГАТ-системы управления: agat-sistemy-upravleniya
+Агенство БитАктив: agenstvo-bitaktiv
+Агентство Интернет Технологий: agentstvo-internet-tehnologiy
+Агентство комплексных решений "CHROME": agentstvo-kompleksnyh-resheniy-chrome
+Адекта: adekta
+Администрация ПВТ: administratsiya-pvt
+Администрива: administriva
+Азбука управления: azbuka-upravleniya
+Азон Трейд: azon-treyd
+Айок: ayok
+АйТи Партнер: ayti-partner
+Айти Солюшнз: ayti-solyushnz
+АЙТИ Центр: ayti-tsentr
+АйтиШаг Гомель: aytishag-gomel
+Айчына Плюс: aychyna-plyus
+Акавіта: akavita
+Академия BIGROI: akademiya-bigroi
+Активные Системы: aktivnye-sistemy
+Алавир: alavir
+Альтрграфик: altrgrafik
+Альфа: alfa
+АльфаКИТ: alfakit
+АлюсофтБел: alyusoftbel
+АМГ-Консалт: amg-konsalt
+АМТ-ГРУП: amt-grup
+Андата: andata
+АндМ Софт: andm-soft
+Анталоджик: ooo-antalodzhik
+Ариол Медиа: ariol-media
+АртВэбБай: artvebbay
+АСКОН-Неман: askon-neman
+Атлант-М Tech: atlant-m-tehnologii
+АтлантКонсалт: atlantconsult
+Атрио групп: atrio-grupp
+Байпорт: bayport
+Байт протект: byte-protect
+БГУИР: bguir
+БелБай Групп: belbay-grupp
+Белинфопортал: belinfoportal
+БелИнформМобил: belinformmobil
+БелМобайлСофт: belmobaylsoft
+БелПримИнвест: belpriminvest
+Белсвязьсеть: belsvyazset
+БЕЛСМАРТ СИСТЕМЫ: belsmart-sistemy
+Белтекс Оптик | Yukon Advanced Optics Worldwide: belteks-optik
+Белтехмедиа: beltehmedia
+Белфортекс: belforteks
+Белый кИТ РнД: belyy-kit-rnd
+Бенефит бай: benefit-bay
+Берлио: berlio
+Би-Лоджик: bi-lodzhik
+БизнесПрограммы: biznesprogrammy
+БиСмарт: bismart
+БОКУП ЦВНТР: bokup-tsvntr
+Бонер: boner
+Бонускарт: bonuskart
+Букмекерская компания Maxline: maxline
+Букмекерская компания Maxline: ooo-finansovo-investitsionnaya-kompaniya-inho
+Веб Студия Tomson: veb-studiya-tomson
+Веб-студия "Edulab": veb-studiya-edulab
+Веб-студия "Пингвин": veb-studiya-pingvin
+Веб-студия AnDiV: veb-studiya-andiv
+Веб-студия IToblaka: veb-studiya-itoblaka
+Веб-студия VMN.BY: vmn-by
+Веб-студия Wecan: veb-studiya-wecan
+Веб-студия ВЭБЛАБ: veb-studiya-veblab
+Вебернетик: webernetik
+Вераксен: veraxen
+Визент Медиа: vizent-media
+Виртуальные радости: virtualnye-radosti
+Виртуальный свет: virtualnyy-svet
+ВирусБлокАда: virusblokada
+ВОТЕ ОХО: vote-ooo
+ВОТКЛИК: votklik
+ВЦ Мингорисполкома: vts-mingorispolkoma
+Гид-медиа: gid-media
+Гиперлинк, интернет-агентство: giperlink
+Глобал Диджитал Консалтинг: global-didzhital-konsalting
+ГородИнфо: gorodinfo
+Гранд Парк: grand-park
+Группа компаний 4Д: gruppa-kompaniy-4d
+Группа компаний КАП: gruppa-kompaniy-kap
+Группа компаний МУК: gruppa-kompaniy-muk
+Группа компаний ЭтикетСервис: gruppa-kompaniy-etiketservis
+Делай Дело: delay-delo
+Деловой портал: delovoy-portal
+Деловые Системы Связи: delovye-sistemy-svyazi
+Джей лаб: jlab
+Джей-медиа: dzhey-media
+Джет ФОРС: dzhet-fors
+Дизайн - студия Креативно: dizayn-studiya-kreativno
+Дизайн-бюро 2Geart: dizayn-byuro-2geart
+Дисконтный клуб: diskontnyy-klub
+ДэксэтСервис: deksetservis
+ДЭКУЭС Бел: dekues-bel
+Евразийская Процессинговая Компания: evraziyskaya-protsessingovaya-kompaniya
+Единый Кошелек: edinyy-koshelek
+Завадатар: zavadatar
+ЗАО "Банковско-финансовая телесеть": zao-bankovsko-finansovaya-teleset
+ЗАО "Сервис Деск": service-desk
+ЗАО "Струнные технологии": skyway-technologies-co
+ИВЦ Облсельхозпрода: ivts-oblselhozproda
+Иквадарт: ikvadart
+ИМПА: impa
+Инавеб: inaveb
+Индивидуальный предприниматель Курманов Иван Вячеславович: individualnyy-predprinimatel-kurmanov-ivan-vyacheslavovich
+Индивидуальный предприниматель Мельников Роман Валерьевич: individualnyy-predprinimatel-melnikov-roman-valerievich
+ИНИС-СОФТ: inis-soft
+Инком интер: inkom-inter
+Инновация: innovatsiya
+ИнноТех Солюшнс: innoteh-solyushns
+ИНТЕГРАЛ: integral
+Интеллектуальные Системы: intellektualnye-sistemy
+Интермех: intermeh
+Интернет Агентство Bellka.By: internet-agentstvo-bellka-by
+Интернет Рынок: internet-rynok
+Интернет-Маркетинг: internet-marketing
+Информационный консалтинг: informatsionnyy-konsalting
+ИП Андрей Кудрицкий: ip-andrey-kudritskiy
+ИП Гайдук Дмитрий Александрович: ip-gayduk-dmitriy-aleksandrovich
+ИП Ремша Д.М.: ip-remsha-d-m
+ИП Сосновский: ip-sosnovskiy
+ИП Терновский Артем Александрович: sitewerk-digital-solutions-gmbh
+ИП Филипович В.В.: ip-filipovich-v-v
+ИП Хотянович А.В.: ip-hotyanovich-a-v
+ИП Чалевич Н.В.: ip-chalevich-n-v
+ИП,Горский А.Ю,: ip-gorskiy-a-yu
+Исида-Информатика: isida-informatika
+ИТ-Академия Белхард: it-akademiya-belhard
+Итач-софт: itach-soft
+ИТС-Бел: its-bel
+ИУП "1С-Битрикс": iup-1s-bitriks
+КАМО АйТи: kamo-ayti
+Карголинк: cargolink
+Каспер SEO: kasper-seo
+КасперСистемс: kaspersistems
+КАТЭК: katek
+КБ Радар: kb-radar
+КБ СП Технотон: kb-sp-tehnoton
+Компатибл: CompatibL
+КОМПЛИТ: komplit
+Компьютерная Академия "Шаг": kompyuternaya-akademiya-shag
+Компьютерные курсы Comp-As: kompyuternye-kursy-comp-as
+Комсервис: komservis
+Креатек: kreatek
+Креатив-Лаборатория 82: kreativ-laboratoriya-82
+Креативная Студия Кукушка: kreativnaya-studiya-kukushka
+Кредосистемс: kredosistems
+КРИОС: krios
+Лаборатория 50: lab-50
+Лаборатория информационных технологий: laboratoriya-informatsionnyh-tehnologiy
+Лаборатория тестирования: laboratoriya-testirovaniya
+Лайкит: laykit
+Лайм Медиа: laym-media
+Лендинг Пейджес: lending-peydzhes
+Лингвистический софт: lingvisticheskiy-soft
+Лэб 42: leb-42
+ЛюксСофт: lyukssoft
+Майхип: mayhip
+Максипрософт: maksiprosoft
+МАПСОФТ: mapsoft
+Масштабные решения: masshtabnye-resheniya
+Мебиус: mebius
+Мегаплан: megaplan
+МегаСайтГрупп: megasaytgrupp
+МигСофт: migsoft
+Микроинформ: mikroinform
+Микропроцессорные технологии: mikroprotsessornye-tehnologii
+Минти Лаб: minti-lab
+МИОДАТ: miodat
+МиСофт: misoft
+Мобикон-Медиа: mobikon-media
+Мобильные Решения Плюс: mobilnye-resheniya-plyus
+Мобити: mobitee
+МТС ИТ: mts-it
+Настоящие Технологии ООО: nastoyaschie-tehnologii-ooo
+Национальный центр электронных услуг: natsionalnyy-tsentr-elektronnyh-uslug
+Наш Белый Дом: nash-belyy-dom
+НВП Модем: ModemLtd
+НЕКЛО: neklo
+НИИ ТЗИ: nii-tzi
+НИИЭВМ: niievm
+НИИЭВМсервис: niievmservis
+НКА: nka
+Новадо софт: novado-soft
+Норбит: norbit
+НПООО ОКБ ТСП: npooo-okb-tsp
+НПП БЕЛСОФТ, ЗАО: npp-belsoft-zao
+НТП Центр: ntp-tsentr
+НТЦ КГБ: ntts-kgb
+НТЦ Контакт: ntts-kontakt
+НЦЭУ: ntseu
+ОАО "Банковский процессинговый центр": oao-bankovskiy-protsessingovyy-tsentr
+ОАО "БМРЦ": oao-bmrts
+Образовательные системы: obrazovatelnye-sistemy
+Образовательный центр программирования и высоких технологий (IT-Academy): it-academy
+Огромная черепаха: ogromnaya-cherepaha
+ОДО "СТРИМ": odo-strim
+ОДО Прософт: odo-prosoft
+ОИПИ НАН Беларуси: oipi-nan-belarusi
+ОИРСО ЦИИР БГУИР: oirso-tsiir-bguir
+Ой-Ли Технолоджи: oy-li-tehnolodzhi
+ОНРЕП: onrep
+ООО "BelBIGroup": ooo-belbigroup
+ООО "АДМсолюшн": ooo-admsolyushn
+ООО "Айти Профешнл": ooo-ayti-profeshnl
+ООО "АпГруп": ooo-apgrup
+ООО "Байкард": ooo-baykard
+ООО "Бритиш Бизнес Сервисис": ooo-british-biznes-servisis
+ООО "Бюро технологических решений": ooo-byuro-tehnologicheskih-resheniy
+ООО "ВайФай Мэп": ooo-vayfay-mep
+ООО "ВебФокс": ooo-vebfoks
+ООО "ВКС Технологии и системы": ooo-vks-tehnologii-i-sistemy
+ООО "Воидаинт": ooo-voidaint
+ООО "ВсетиБай": ooo-vsetibay
+ООО "ГУДДИЛ": ooo-guddil
+ООО "ДАБ ГЛОБАЛ": dab-creative
+ООО "ИнфоИдея": ooo-infoideya
+ООО "ИтерТех Инновэйшенс": ooo-iterteh-innoveyshens
+ООО "Лэмплайтер": ooo-lemplayter
+ООО "МедиаСтройИмидж": ooo-mediastroyimidzh
+ООО "Мобайл Дисконт Систем": ooo-mobayl-diskont-sistem
+ООО "Открытый Контакт": ooo-otkrytyy-kontakt
+ООО "Пикалитикс": ooo-pikalitiks
+ООО "Рифтэк": ooo-riftek
+ООО "СКБ "Радиотехпроект": ooo-skb-radiotehproekt
+ООО "Современный город": ooo-sovremennyy-gorod
+ООО "Софткорп": chp-softkorp
+ООО "ТехноИнновация": ooo-tehnoinnovatsiya
+ООО "Тиспр": ooo-tispr
+ООО "Топ Софт": korporatsiya-galaktika
+ООО "ФоксТри": ooo-fokstri
+ООО "Эверданс": ooo-everdans
+ООО "Электронная экономика": ooo-elektronnaya-ekonomika
+ООО "Энвижен" (neoviso™): ooo-envizhen-neoviso
+ООО "ЭнФэйз Системс": ooo-enfeyz-sistems
+ООО “Йондер Медиа Мобайл БиУай": yonder-media-mobile
+ООО «АскерВЕБ»: askerweb
+ООО «ВЭБ Технологии»: ooo-veb-tehnologii
+ООО «Зиекс»: ooo-zieks
+ООО «СофтЛид»: ooo-softlid
+ООО «ЭлитСофт»: ooo-elitsoft
+ООО ITT Communications: itt-communications
+ООО БелТрасБилет: ooo-beltrasbilet
+ООО ДЭМСОЛС: ooo-demsols
+ООО Инфотехнологии: ooo-infotehnologii-group-of-companies-xim-inc-ximad-inc
+ООО ИТР Софт: ooo-itr-soft
+ООО Моментум Бел: ooo-momentum-bel
+ООО СНМТ Технолоджис: ooo-snmt-tehnolodzhis
+ООО Хаски медиа: ooo-haski-media
+ООО ЭМКОМ Интернэшнл: ooo-emkom-interneshnl
+ООО Ямото Самокато: ooo-yamoto-samokato
+ОТР: otr
+ПАПАКАЯ: papakaya
+Первая Линия: pervaya-liniya
+ПКБ «Витебск»: pkb-vitebsk
+Поток Проектов: potok-proektov
+ПраймСофт: praymsoft
+Представительство PamConsult Gmbh в Минске: predstavitelstvo-pamconsult-gmbh-v-minske
+Программы-Проекты: programmy-proekty
+Прогрессив Софт: progressiv-soft
+Проектный офис: proektnyy-ofis
+Промо Пикс: promo-piks
+Профит: profit
+Реактивные технологии: reaktivnye-tehnologii
+Речевые технологии: rechevye-tehnologii
+Решения будущего: resheniya-buduschego
+РиэлтБай: rieltbay
+С-Терра Бел: s-terra-bel
+СайтФутур: saytfutur
+Свой Сайт: svoy-sayt
+Связьинвест: siware
+Связьинформсервис: svyazinformservis
+СвязьПартнер: svyazpartner
+Сенсотроника: sensotronika
+Сеоклик/SeoClick: seoklik-seoclick
+Сеотим Медиа / SEOTEAM: seotim-media-seoteam
+Сервис Ай-Ти: servis-ay-ti
+СИС Инжиниринг: sis-inzhiniring
+СистемаСофтИТ: ooo-sistemasoftit
+СИСТЕМНЫЕ ТЕХНОЛОГИИ: SystemTechnologies
+Системы для бизнеса: sistemy-dlya-biznesa
+Сител: sitel
+СКБ Камертон: skb-kamerton
+Словодар: slovodar
+Смартпро: smartpro
+СмартСатуЛаб: smartsatulab
+Создание сайтов ALIVA: sozdanie-saytov-aliva
+СООО Левальд Сервисиз: sooo-levald-servisiz
+СООО Силабс: sooo-silabs
+СофтВек: softvec
+Софтмакс системы телеметрии: softmaks-sistemy-telemetrii
+СофтСервис: softservis
+Софтэйл: softeyl
+СП "Технотон": sp-tehnoton
+Спортдата: sportdata
+СпроАйТи: sproayti
+Старонка: staronka
+Студия Борового: studiya-borovogo
+Студия веб-дизайна DreamTeam: dreamteam
+Студия Дмитрия Кравцова: studiya-dmitriya-kravtsova
+Студия интернет рекламы Андрея Терентьева: studiya-internet-reklamy-andreya-terentieva
+Студия Райт: studiya-rayt
+Студия Черенкевича: studiya-cherenkevicha
+Телеконтакт: telekontakt
+Территория АйТи: territoriya-it
+ТЕХНИКОН: tehnikon
+Технологии Успеха: technology-union
+ТКП-Софт: tkp-soft
+ТКсэт: tkset
+Топ Системы: top-sistemy
+тотл центр групп: totl-tsentr-grupp
+Учебный центр SoftLine: uchebnyy-tsentr-softline
+Фабрика брендов: fabrika-brendov
+Фабрика игр: fabrika-igr
+Фортунатум: fortunatum
+ФП Трэйд: fp-treyd
+Хуткi Грош: hutki-grosh
+Хьюмен Систем: hyumen-sistem
+Хэпикс: happix
+Центр банковских технологий: tsentr-bankovskih-tehnologiy
+Центр Бизнес Решений: tsentr-biznes-resheniy
+Центр Знаний: tsentr-znaniy
+Центр Интернет маркетинга: tsentr-internet-marketinga
+Центр инфо технологий: tsentr-info-tehnologiy
+Центр Корпоративных Технологий: tsentr-korporativnyh-tehnologiy
+Центр Прогрессивных Разработок: tsentr-progressivnyh-razrabotok
+Цифровое агентство ВИДЖЕТСОФТ: tsifrovoe-agentstvo-vidzhetsoft
+ЧУП "ГРАНКОМ": ooo-interkonest
+ЧУП БелТехноСофт: beltech-inc-chup-beltehnosoft
+Швейная традиция: shveynaya-traditsiya
+Школа программирования: shkola-programmirovaniya
+Эйво: eyvo
+Экономика-софт: ekonomika-soft
+ЭксПиЭм Рус: ekspiem-rus
+Экстмедиа: ekstmedia
+ЭмпатиБай: empatibay
+ЭнкиСофт: enkisoft
+Энпровиа: enprovia
+ЭстерСтар: esterstar
+ЭтикетСервис: etiketservis
+ЮрСпектр: yurspektr
+Яндекс: yandex
+"SpurIT": spurit
+"Сэнтикод": senticode
+°dewpoint: dewpoint
+//CODEMASTER: codemaster
+12devs: 12devs
+01D: 01d
+*instinctools: instinctools
+1PT: onepoint
+21vek.by: 21vek-by
+3ears: 3ears
+3Seven Studio: 3seven-studio
+4D (Четыре Д): 4d-chetyre-d
+5digital: 5digital
+5media: 5media
+5NICE: 5nice
+69pixels: 69pixels
+7Version: 7version
+A-SITE.by: a-site-by
+2TS Engineering: 2ts-engineering
+A1 (Унитарное предприятие "А1"): a1
+a1qa: a1qa
+Abiatec: abiatec-Company
+ABIS (Абсолют Интернет Системс): abis-absolyut-internet-sistems
+ABKonDevelop: abkondevelop
+Absolut Internet Systems: absolut-internet-systems
+Acarica: acarica
+Acantek Solutions Ltd.: acantek
+ActiveCloud: activecloud
+Acobby Ltd: acobby-ltd
+ACD/Labs: acd-labs
+ActiveMedia: activemedia
+Adaptive Studio: adaptive-studio
+ADANI: adani
+ActivePlatform: activeplatform
+Adepta: adepta
+Adental: adental
+Adroiti Technologies Inc.: adroiti-technologies-inc
+Admitad: admitad
+Aetsoft: datapro
+Adform BY: adform-by
+Affinity Digital Agency: affinity-digital-agency
+AGAT-SYSTEM: agat-system
+Affise: affise
+AGENTE: agente
+AGM SOFT: agmsoft
+AFRANS: afrans
+Aheadworks: aheadworks
+Aiolane: aiolane
+AiMobi Apps: aimobi-apps
+AirConn Bel Technology: airconn-bel-technology
+AIMATTER: aimatter
+Aisconverse: aisconverse
+AIS Novations: ais-novations
+Aist Tech: aist-tech
+AKDev Group: akdev-group
+Akvelon: akvelon
+AKTOK: aktok
+Albymedia: albymedia
+Aitoc: Aitoc
+Alconost: alconost-translations
+Alconost Inc.: alconost-inc
+Alfaweb: alfaweb
+Akveo: akveo
+AlgoSec: algosec
+Allied Testing: allied-testing
+AlphaByte: alphabyte
+Aligned Code: aligned-code
+Alpheta Systems: alpheta-systems
+Alseda Consulting: alseda-consulting
+Altoros Development: altoros-development
+AltWolf: altwolf
+Altgraphic: altgraphic
+Alverden Systems: alverden-systems
+Almus: almusmediaby
+Amasty: amasty
+AMediuM: amedium
+AMS: ams
+AMG: amg
+Alvitex: alvitex
+Anakreon: anakreon
+AnEvAr: anevar
+Andersen: andersen
+Anadea: anadea
+Antalika: antalika
+Anventa Technologies: anventa-technologies
+Anveo Ventures: anveo-ventures
+Anvanto: anvanto
+Apalon: apalon
+ApCelp: apcelp
+Apextech: apextech
+APM2 Studio: apm2-studio
+APOSTROFSOFT: apostrofsoft
+APoint: apoint
+Applied Smart Systems: applied-smart-systems
+Applied Systems: applied-systems
+Appolo: appolo
+AppAgg: appagg
+Approvery: approvery
+Appservice: appservice
+AppsUlove: appsulove
+AppXite: appxite
+Appyfurious: appyfurious
+APRO software: apro-software
+ArasCorp Development Center: arascorp-development-center
+AR Squad: ar-squad
+Arateg: arateg
+Arcadia: arcadia-inc
+Arcom Group: arcom-group
+Arcom Group ltd.: arcom-group-ltd
+Aristek Systems: aristek-systems
+Armada Labs: armada-labs
+ARKVIT: arkvit
+ARSnova: arsnova
+Artcroix: artcroix
+Artezio: artezio
+ArtisMedia: artismedia
+Ariteta: ariteta
+Appstud: appstud
+ARTOX Lab: artox-lab
+Artocon: artocon
+ASPsoft.by: aspsoft-by
+ASoft: asoft
+ASPMedia: aspmedia
+Assistent.By: assistent-by
+AST: ast
+ASWardag: aswardag
+Atevi Systems: atevi
+atmatic: atmatic
+Astronim: astronim
+Augmentive: augmentive
+ATOMICHRONICA: atomichronica
+Aurius Studio: aurius-studio
+Atreesoft: atreesoft
+Atomicus: atomicus
+Avanta: meetville
+Aventus IT: it-sprendimay
+Auxilin: auxilin
+Avest: avest
+Awagro Style: awagro-style
+Awem Games: awem-games
+AVID: avid
+AWTG LLC: awtg-llc
+Axamit: axamit-consulting
+Axiom Connected: axiom-connected
+AxiomSoft: axiomsoft
+Axonim: axonim
+AxxonSoft: axxonsoft
+Axygens: axygens
+Azati: azati
+Axiopea Consulting: Axiopea
+AXIOMA: axioma
+B2B-Center: b2b-center
+BA Solutions: ba-solutions
+Bamboo Group: bamboo-group-ou
+Bamboo Apps: bamboo
+Banuba Development: banuba-development
+Baseline marketing: baseline-marketing
+BayQaTraining, Inc: bayqatraining-inc
+BeatDev: beatdev
+BearDev: beardev
+Beesender: beesender
+beCloud: becloud
+BelaBios IOOO: belabios-iooo
+BelAbat: belabat
+Belatragames: belatragames
+BELHARD: belhard
+BelitSoft: belitsoft
+Belka Games: belka-games
+Beltechsoft (Белтехсофт): beltechsoft-beltehsoft
+BelPrime: belprime
+Beliani: beliani
+Beltelecom: beltelecom
+BelVG: belvg
+Bevalex: bevalex
+BFB Capital: bfb-capital
+BESK: besk
+Biclast solutions: biclast-solutions
+Big Data Technologies: bigdata-technologies
+BGSoft: bg-soft
+Biggiko: biggico
+BIM Machine: bim-machine
+BillingPlatform Corp: billingplatform-corp
+BinaryLabs: binarylabs
+Binatomic: binatomic
+Bimium: bimium
+BioSoftTrade: biosofttrade
+BIT MEDIA SOFT: bit-media-soft
+Binitex: binitex
+Bit-Apps: bit-apps
+BitSol IT Solutions: bitsol-it-solutions
+bitnet: bitnet
+BIVIAR Partners: biviar-partners
+BldSoft: bldsoft
+Black Beacon: blackbeacon
+BKsoft: bksoft
+Bobaka: bobaka
+Bostil Support: bostil
+BookYourStudy: bookyourstudy
+BrainForce: brainforce
+Boolba Labs: boolba-labs
+Brainkeeper: brainkeeper
+Bright Solutions: bright-solutions
+Brimit: brimit
+BSL: bs-lab
+Brightgrove: brightgrove
+BTC: btc
+BSVT - NT: bsvt-nt
+BTC group: btc-group
+Bulba Ventures: bulba-ventures
+Bulberry: bulberry
+BP Mobile: bp-mobile
+BuzzGuru: buzzguru
+BWS-Studio: bws-studio
+ByCenter: bycenter
+Byelex Multimedia Products: byelex-multimedia-products
+BYRIL: byril
+BYLECTRIC: bylectric
+C2labs: c2labs
+CactusSoft: cactussoft
+Burstly Inc.: burstly-inc
+Call-tracking.by: call-tracking-by
+Caspel: caspel
+Capsilon: capsilon
+Caspowa: caspowa
+Caffesta: caffesta
+Centaurea: centaurea
+CatalogLoader: catalogloader
+CertChain: certchain
+Certumsoft: certumsoft
+CETC: cetc
+Cedon BLR: cedon-blr
+ChangeAgain.me: changeagain
+Check Point Software Technologies Ltd.: check-point-software-technologies-ltd
+Cheday: cheday
+ChainArtSoft: chainartsoft
+Ciklum: ciklum
+CIB software: cib-software
+CleverLabs: clever-labs
+Cinema Lab: cinema-lab
+Clevertec: clevertec
+CleverApp: cleverapp
+Clickmedia: clickmedia
+CloudCall BY: cloudcall-by
+cLogic: clogic
+Cluster Systems: cluster-systems
+CMTech: cmtech
+Code Inspiration: code-inspiration
+Codex Software: codex-soft-llc
+Coding Staff: coding-staff
+CodeWell Soft: codewell-soft
+Cogniteq: cogniteq
+Cognitive Technologies: cognitive-technologies
+Collab IT: collab-it
+CodeCave: codecave
+Coinmatics: coinmatics
+Compit Group: compit-group
+Colvir Software Solutions: colvir-software-solutions
+ComplITech: llc-complitech
+ConnectOne: connectone
+Concept Soft: concept-soft
+Coral Team: coral-team
+Consensuslab: consensuslab
+Corpitech: corpitech
+Core5: core5
+Cortlex: cortlex
+CoolHeads Digital: coolheads-digital
+Crears Systems: crears-systems
+Cotvec: bank-soft-innovation
+Createx: kreyteks
+CreativeIT: creativeit
+Credentially: doktor-fokusd
+Credo-Dialogue: credo-dialogue
+Crossix Solutions: crossix-solutions
+Craft: craft
+CrowdTechnologies LLC: crowdtechnologies-llc
+Crypti: crypti
+CSFactory: csfactory
+Currency.com: currency-com
+Cuspy Software: cuspy-software
+Cryptocode: cryptocode
+CTDEV: ctdev
+Custodesk: custodesk
+Customertimes Corp: customertimes-corp
+Cyberport: cyberport
+Cyber Cradle: cyber-cradle
+D8 Corporation: d8-corporation
+Cygno Solutions: cygno-solutions
+DANOVA: danova
+Dana Networks: dana-networks
+DashBouquet Development: dashbouquet-development
+DataMola: up-deytamola
+Datahata: datahata
+DataRobot: datarobot
+datarockets: datarockets
+DAX Service: dax-service
+Daymare Web Studio: daymare-web-studio
+DAX service: dax-service-archive
+Debitrum Development: debitrum-development
+Deepdee: deepdeeorg
+De Facto soft: de-facto-soft
+Delium: delium
+Dell: ooo-anstopobl
+DELVE: delve
+Dev Team: aytief
+Designstation: designstation
+dev.by: dev-by
+Devicepros: devicepros
+DevsRemote: devsremote
+DEVXED: devxed
+DevStars: devstars
+Dektry: dektry
+DGpro: dgpro
+Digesta Digital: digesta-digital
+Diesel Puppet: diesel-puppet
+Digital Forest: digital-forest
+dfgdfgdf: dfgdfgdf
+Digital Top: digital-top
+Digital Unicorn: digital-unicorn
+DEIP: deip
+Digitalizm: digitalizm
+DiscreteMind: discretemind
+DigiTech7: digitech7
+Distillery: rus-wizards
+Ditrix-Soft: ditrix-soft
+Dizzain: dizzain
+dotdigital: dotmailer
+DPI.Solutions: dpi-solutions
+Dreampix: dreampix
+DreamTeam Mobile: DreamTeamMobile
+Dual Lab: dual-lab
+DMTech: dmtech
+Dynamic Games: dynamic-games
+DYNEVO: dynevo
+Dynamics-AX service, Limited: dynamics-ax-service-limited
+DZENSOFT: dzensoft
+E-vision: e-vision
+Eagle Dynamics: eagle-dynamics
+Digiteum: digiteum
+EasyProjects.NET: easyprojects-net
+EBS Partners: ebs-partners
+eComCharge LLC: bepaid
+Ecsat-bel: ecsat-bel
+EDALITY: edaliti
+Effective Solutions International: effective-solutions-international
+Efectura: ooo-effektura
+EffectiveSoft Ltd.: effectivesoft-ltd
+Egamings: egamings
+Efir Media: efir-media
+EGAR Technology: egar-technology
+Eightydays.me: eightydaysme
+EIS Group: eisgroup
+EKA-Soft: eka-soft
+Elab Media: elab-media
+ElateSoftware: elatesoftware
+EleganceIT: eleganceit
+Elinext: elinext
+Ellipsoit Plus Ltd: ellipsoit-plus-ltd
+ElmoSoft: almorsoft
+ELTEAM GROUP: cuspy-technology-group
+Dream Support: dream-support
+Enable IT: enable-it
+Emerline: emerline
+Egorov Agency: egorov-agency
+EnCata: encata
+EngineIT: engineit
+EPAM: epam-systems
+Eon Games: eon-games
+EPICA: epica
+Epicmax: epicmax
+Epio IT University: epio-it-university
+Enixar: enixar
+Epol Soft: epolsoft
+Ergalio: ergalio
+Espectro: espectro
+ETNA: etna-software
+EssentOptics Ltd: essentoptics-ltd
+Everymove: everymove
+EVOKE Systems: evoke-systems
+Evolution Gaming: evolution-gaming
+eWave: ewave
+Exadel: exadel
+ENAVATE: enavate
+Excite Technologies: excite-technologies
+ExonIT: exonit
+exp(capital): exp-capital
+Expansa Group: expansa-group
+EukodyneSystems: eukodynesystems
+Expert Soft: expert-soft
+Extmedia: extmedia
+Exto eCommerce: exto
+Extrit.by: extrit-by-internet-marketing
+EY Digital: ey
+Ezeme: ezeme
+Faber Studio: faber-studio
+Factory 16: factory-16
+FastServe: fastserve
+ExtBel: ooo-ekstbel
+Feeling Digital: feeling-digital
+Exposit: exposit
+FIN.by: fin-by
+Fermium: fermium
+Finin: infin
+Fingers media: fingers
+Finstek: finstek
+Firedome: firedome
+FirstBeatMedia: firstbeatmedia
+Finvinci: finvinci
+Fively: fively
+Flatlogic: flatlogic
+Flashphoner: flashphoner
+Flex.Media: flex-media
+Fitbit: fitbit
+FLLC SEAVUS: fllc-seavus
+Flo Health: flo-by-owhealth
+Fly Fish Soft: fly-fish-soft
+Flexbl: flexbl
+Flypika: flypika
+FORANX LLC: foranx-llc
+Foranx: foranx
+Forrards Group: forrards-group
+Fortune Systems: fortune-systems
+Forte Group: forte-group
+Fortumo Ltd: fortumo-ltd
+Francysk Group: francysk-group
+Fresh Lemon Soft LLC: fresh-lemon-soft-llc
+Freshly Data LLC: freshly-data-llc
+FriendlyData / ФД Девелопмент: ooo-fd-development-friendlydata
+FPD: fpd
+Front-Devs: front-devs
+Full Spectrum Systems: full-spectrum-systems
+FUNGI studio: fungi-studio
+Funler: funler
+Full Scale: full-scale
+FuryLion Group: furylion-studios
+Fusiontech: fusiontech
+g-4: g-4
+Frontbyte: frontbyte
+G-Core Labs: g-core-labs
+G-Lock Software: g-lock-software
+Gameloft: gameloft
+Galantis: galantis
+Gambino: gambino
+Geek-Solutions: geek-solutions
+GBSoft: gbsoft
+GeliosSoft: geliossoft
+Generic Solution: generic-solution
+Genesis Apps: genesis-apps
+Geomotiv: Geomotiv
+Generint: generint
+GenSolutions: gensolutions
+GERSIS SOFTWARE: gersis-software-llc
+getbob digital agency: getbob-digital-agency
+GetYourMap: getyourmap
+GGWP: ggwp
+GetSpace: getspace
+Gismart: gismart
+Global Sense LLC: global-sense-llc
+Globant: Globant
+GICSOFT: gicsoft
+GlowByte Consulting: glowbyte-consulting
+Godel Technologies Europe: godel-technologies-europe
+Golden Software of Belarus, Ltd: golden-software-of-belarus-ltd
+Goozix: goozix
+GoodSoft: goodsoft
+Gradient: gradient
+GP Solutions: gp-solutions
+Gofrobum: gofrobum
+Green Moon: green-moon
+Greenwall Systems: greenwall-systems
+Grinteq: grinteq
+GreenAnt: greenant
+GRIZZLY DIGITAL COMPANY: grizzly-digital-company
+Gresbi: vianit
+Gusarov Group: gusarov-group
+GWWT Development Solutions: gwwt-development-solutions
+HA – Interactive brand studio: ha-interactive-brand-studio
+HardCode: hardcode
+Hackspace: hackspace
+HardSoft Robotics: hardsoft-robotics
+Heapix Development: heapix-development
+helenova: helenova
+Helmes Bel: helmes-bel
+Gurtam: gurtam
+HES FinTech: hes-fintech
+Heyworks: heyworks
+Hibercon Technologies: hibercon-technologies
+HighLevel: highlevel
+HF-Solution: hf-solution
+HiQo Solutions: hiqo-solutions
+Hipway: hipway
+Holiday.by: holiday-by
+HolyTransaction: holytransaction
+HOSTER.BY: noname
+Hitbox: random-development
+HRBA: hrba
+HQSoftware: hqsoftware
+hsdjfhbsdjhfb: hsdjfhbsdjhfb
+HumanoIT Group: humanoit-group
+humansee labs: humansee-labs
+Humans: humans
+HYPERVSN (by Kino-mo): kino-mo
+Hytex Solutions Ltd: hytex-development-studio
+ib.by: ib-by
+I Got Games (IGG): i-got-games-igg
+IBA Gomel: iba-gomel
+IBA Group: iba-group
+ICOGURU: icoguru
+iCode: ooo-umnyy-kod
+ID Finance: id-finance
+ICON Games: icon-games
+IDA Technologies: ida-technologies
+Ideanomix Digital: ideanomix-digital
+iDiscount Ltd: idiscount-ltd
+IDLab: idlab
+IDS: ids
+IDT Belarus: idt-technologies
+iFuture: ifuture
+IdeaWebLab: ideaweblab
+IGIES: igies
+Ihighload: ihighload
+IHS Markit: ihsmarkit
+IGROTEK: igrotek
+iKantam: ikantam
+Iksanika: iksanika
+ilavista: ilavista
+IdeaSoft: ideasoft
+HostFly.by: hostfly-by
+Impet: impet
+inCaller: incaller
+INDI: indi
+InData Labs: indata-labs
+Indigo Bunting: indigo-bunting
+inNativeLife / ShaurmaLab: innativelife-shaurmalab
+Innovative Internet Technologies: innovative-internet-technologies
+InSales: insales
+InSoft Engineering: insoft-group
+Insollo Entertainment: insollo-entertainment
+Inspectorio: inspectorio
+Innovative Future Technologies: innovative-future-technologies
+intelex: intelex
+Instamotor Bel: instamotor
+INTELICO: intelico
+InGrid Lab: ingrid-lab-ltd
+Intellectsoft: intellectsoft
+Intellect Motion: intellect-motion
+Intelligent Urban Systems: intelligent-urban-systems
+Intellectual Quality: intellectual-quality
+InterDelight: interdelight
+Intergalactic development: intergalactic-development
+InterTech Solution: inter-tech-solution
+Internetix: internetix
+Intervale: intervale
+Intellect IT: intellect-it
+IntexSoft: intexsoft
+InToSoft: intosoft
+Intrahealth (Nikta): intrahealth-nikta
+Invatechs Software: invatechs
+Invelio: invelio
+Invento Labs: inventolabs
+InvestCity: investcity
+IP Telcom: ip-telcom
+IPonWEB: iponweb
+IPOS.BY: ipos-by
+IQClash: iqclash
+Intetics: intetics
+ISD Studio: isd-studio
+Ispirer Systems: ispirer-systems
+IT Band Systems: it-band
+ISsoft: issoft
+Interweb: interweb
+IT Partner: it-partner
+IT Training Center (Belsoft): it-training-center-belsoft
+ITA ( Information Technology Alliance Ltd.): ita-information-technology-alliance-ltd
+itactive / Итектив: itactive-itektiv
+ITB / Информационные технологии бизнеса: itb-informatsionnye-tehnologii-biznesa
+ITBELCOM: itbelcom
+it_wave: it_wave
+IT-Form: it-form
+IT-школа Myfreedom: it-shkola-myfreedom
+itc: itc
+Itexus Soft: itexus-soft
+iTechArt Group: itechart-group
+itictory: itictory
+ITM House: itm-house
+ITMEDIA: itmedia
+ITMINE: itmine
+ITHub: ithub
+ITGroup: itgroup
+ITGENIO: itgenio
+ITOS: itos
+IToris: itoris
+Itransition: itransition
+itpro: itpro
+ITRex Group: itrex-group
+ITSoft: itsoft
+ITS Partner: its-partner
+ITStrategy: itstrategy
+ittc: ittc
+ITNavis: itnavis
+ITUnit: itunit
+ITzone: itzone
+Ivelum: ivelum
+iXBT: ixbt
+ITWAY: itway
+Jazz Pixels: jazz-pixels
+JayDevs: jaydevs
+JazzTeam: jazzteam
+JET BI: jet-bi
+Jet Technologies-Bel: jet-technologies-bel
+JLLC OZONE Consulting: jllc-ozone-consulting
+Jnetworks: jnetworks
+Jordan Traffic: jordan-traffic
+JSC Peleng: jsc-peleng
+JLLC CLABS: jllc-clabs
+JSC Solo: jsc-solo
+JVL (ДжэйВиЭл корпорэйшн): jvl-dzheyviel-korporeyshn
+Just Studio: just-studio
+K&K Technologies: k-k-technologies
+Kairus: kairus
+Kakadu Dev: kakadu-dev
+ITSupportMe: itsm
+Karamba Security: karamba-security
+Kaseya: kaseya
+Keiss Media Bel: keiss-media-bel
+Key Group: key-group
+KeySequences: keysequences
+Kibernetiko: kibernetiko
+Kiosk Solutions: kiosk-solutions
+Kitkard: kitkard
+kjkjkj: kjkjkj
+Klika Tech: klika-tech
+Knomary: knomary
+Komspek: Komspek
+JETWEB: jetweb
+Kontur: kontur
+KREADO OHG: kreado-ohg
+Kufar: kufar
+KVITKI BY: kvitki-by
+Kyriba Engineering, LLC: edc
+LabelSoft: labelsoft
+Labinvent: labinvent
+Labrax Studio: labrax-studio
+Labs64 GmbH: labs64-gmbh
+Lamanteam: lamanteam
+Lansoft: lansoft
+Lappa: lappa
+KM Lab: km-lab
+launchOptions: launchoptions
+LeCode group: lecode-group
+LegaSystems: legasystems
+Lepshey: lepshey-studio
+lifetech: lifetech
+LeverX: leverx
+Light Well Organization: light-well-organization
+Lime-Express: lime-express
+Kariid: kariid
+Lingvanex: lingvanex
+LINKOR: linkor
+Litussoft: litussoft
+Liquid Pug: liquid-pug
+LiveLabels: livelabels
+LIVETREND CONSULTANTS LIMITED: livetrend-consultants-limited
+Litvinsky: litvinsky
+Lightpoint Global: lightpointglobal
+LLSOFT: llsoft
+Logic Software: logic-software
+LLC AG Software: llc-ag-software
+Looperoom™ Interactive: looperoom-interactive
+LogicLike: logiclike
+Lotasoft: lotasoft
+LoudMind: loudmind
+Lunas: lunas
+Luware AG: luware-ag
+Lyte: lyte
+LOVATA: lovata-group
+M-sc: m-sc
+M.I.TGroup: m-i-tgroup
+MADCODERS: madcoders
+Magedia: magedia
+Mainsoft: mainsoft
+MajorDoMo: majordomo
+Maksis Digital Agency: maksis-digital-agency
+Malanka: malanka
+Mamboo Games: mamboo-games
+Mango City: mango-city
+Manao: manao
+Logic Way: logic-way
+Map.by: map-by
+Mapbox: mapdata
+Manufact: manufact
+MAPS.ME: mapswithme
+Marccoon Digital: web-studiya-full-stack
+Masquerade: masquerade
+Marco: marco
+Master-M: master-m
+Masterstroke LTD: masterstroke-ltd
+matchbox: matchbox
+Masterlink.by: masterlink-by
+Maygem: maygem
+MAXI.BY media: maxi-by-media
+MBicycle: mbicycle
+MecaSoft: mecasoft
+MediaCity Communications: mediacity-communications
+Medialine: medialine
+mediacube: mediacube
+Medical software solutions: medical-software-solutions
+MEG Analytics: meg-analytics
+Megarost Group: megarost-group
+Maxbitsolution: ooo-maksbitsolyushen
+Megatel GmbH: megatel-gmbh
+MEMOS Outsourcing: memos-outsourcing
+MegaSOFT: up-gis-belsoft
+Melsoft Games: melsoft
+Metatag Digital: metatag-group
+MikroKods Ltd.: mikrokods-ltd
+Mifort: mifort
+Millcom: millcom
+METAGILE: metagile
+Mitrix Technology: mitrix-technology
+Mitto AG: mitto-ag
+MixMedia: mixmedia
+Mobiletag: mobiletag
+ModIS-M Software Corporation: modis-m-software-corporation
+Molimo: molimo
+monostack: monostack
+Mühlemann & Popp Online Media AG: m-hlemann-popp-online-media-ag
+Mraid.io: mraid-io
+Monterosa: monterosa
+Multi Parts: multi-parts
+Myagi: myagi
+Multy.io: multy-io
+MyNetDiary Inc: mynetdiary
+MyCloud: mycloud
+NaStarte.by: nastarte-by
+Nasty Creatures: nasty-creatures
+MOBYRIX: mobyrix
+NeatTech: neattech
+NamviSoft / НамвиСофт: namvisoft
+Neotech: neotech
+NeskinSoft: neskinsoft
+Net Games Laboratory: net-games-laboratory
+Netcracker: netcracker
+Neutrino Cat: neutrino-cat
+Netologic: netologic
+NEWLAND technology: newland-technology
+Next Level: next-level
+New Wave Software: new-wave-software
+Nezaboodka Software: nezaboodka-software
+Next Network: next-network
+Nero Electronics: nero-electronics
+Nineseven: nineseven
+NGWeb: ngweb
+Nilitis LLC: nilitis-llc
+Nitka Technologies: nitka-technologies
+Nival: nival
+NORDMOUNT: nordmount
+Novacom: novacom-a-softline-company
+Nord-Soft: nord-soft
+NT Technology: nominal-tehnologies
+NSITE STUDIO: nsite-studio
+NTLab: ntlab
+NTS: nts
+NUBIKO: nubiko
+NX Studio: nx-studio
+Ocean Development: ocean-development
+OCSICO: ocsico
+ObjectStyle: objectstyle
+Octonion Technology: octonion
+Odysseus Data Services Inc.: ooo-odisseus-data-servises
+Octopus Games: octopus-games
+Offsiteteam: offsiteteam
+OmegaSoftware: omegasoftware
+OMERTEX: omertex
+Omicron Soft: omicron-soft
+On The Spot Development: on-the-spot-development
+Olimpia: olimpia-by
+OMLOOK: omlook
+Onde: onde
+Onilab: onilab
+OneSoil: onesoil
+OneTwoTrip: onetwotrip
+OOO "Кодэксперт": code-experts
+OOO "ЭСТАЖЕМА": estazhema
+OOO NORTH IT GROUP: ooo-north-it-group
+OOO "ЮВР": ooo-yuvr
+OOO Social Network Media: ooo-social-network-media
+Onix: onix
+OOO Linkas: ooo-linkas
+OpenMyGame: openmygame
+OrangeProcess: orangeprocess
+Optixsoft: optixsoft
+Orangesoft: orangesoft
+Oriole DB Inc.: oriole-db-inc
+Orion Soft: orion-soft
+Ormedia: ormedia
+Orbit-Soft: orbit-soft
+outstaffing.me: outstaffing-me
+OtherControls: othercontrols
+Ormin: ormin
+OxGroup: oxgroup
+OZiTAG: ozitag
+Palessit: palessit
+Paprikash.Works: paprikash
+PandaDoc: pandadoc
+Paralect: paralect
+ParaBox: parabox
+Pax: pax
+Oxagile: oxagile
+Paspalum: paspalum
+Pay-Me: pay-me
+Payever: payever
+PEERCLICK: peerclick
+PHPDev: phpdev
+PCMarket: pcmarket
+Pi-consult: pi-consult
+Piplos Media: piplos-media
+Pixelhead: pixelhead
+Pix Media: pix-media
+PJ Software: pj-software
+PixelPlex: pixelplex
+Pitri: pitri
+Playgendary: playgendary
+Playtika: playtika
+Platform.io: platformio
+PM&S Software GmbH: pm-s-software-gmbh
+PMtech, LLC: pmtech
+Pokupay.by: pokupay-by
+Postindustria: postindustria
+PowerMeMobile: powermemobile
+polygon.by: polygonby
+Prisma Soft: prisma-soft
+Predizo, LLC: predizo-llc
+PRAS: pras-by
+Productive Edge, LLC: productive-edge-llc
+Profiserv: profiserv
+Pro Stream: pro-stream
+Promwad: promwad
+ProgzIT: progzit
+Profitero: profitero
+Propellers: propellers
+ProteiQ: proteiq
+ProSites: prosites
+PS-Studio: ps-studio
+PSA Development Center: psa-professional-software-associates
+Pure: pure
+PST Labs LLC: pstlabs
+Pyramid Studio: pyramid-studio
+q.solutions: qsolutions
+QA Academy: qa-academy
+QPie: qpie
+Proweb: proweb
+Quadro Game Studio: quadro-game-studio
+Quadrosoft: quadrosoft
+Qulix Systems: qulix-systems
+RaiseTech: raisetech
+R-Style Lab: r-style-lab
+Razam Group: razam-group
+Rationale: rationale
+RecruitLoop: recruitloop
+Red Graphic Interactive Agency: red-graphic-interactive-agency
+Red Technologies: red-technologies
+RedFox (ООО "Ред Групп": redfox-ooo-red-grupp
+Redalpha: redalpha-leveris
+Redline: redline
+REDNAVIS: rednavis
+RedStream: redstream
+Remedy Point Solutions, Inc: remedy-point-solutions-inc
+REID Consulting: reid-consulting
+Revoltech LLC: revoltech-llc
+Resilio BLR: bittorrent-blr
+Revotech: revotech
+RichBrains: richbrains
+Rexpax: rexpax
+RINGL Technologies: ringl-technologies
+RocketBody: rocketbody
+Railsware: railsware
+RocketData: rocketdata
+Rocketscience LLC: llc-rocketscience
+RocketScience.ai: rocketscience-ai
+RiseArrow: risearrow
+Rocky Media: rocky-media
+Rodmon Systems: rodmon-systems
+Rovensys: rovensys
+ROOTin LTD: rootin-ltd
+Rozum Robotics: rozum-robotics
+RovarSoft: rovarsoft
+RozumSoft: rozumsoft
+RozumSystems: rozumsystems
+Rubycon Development: rubycon-development
+Rubyroid Labs: rubyroid-labs
+RT PROJECTS: rt-projects
+Sababa Labs: sababa
+Ryxol Solutions: ryxol-solutions
+SaM Solutions: sam-solutions
+Salestime: salestime
+Samanta Technologies: samanta-technologies
+Satellite Innovations, Inc.: dvlp-labs
+SASecurity Group: sasecurity-group
+SayGames: saygames
+Runa Systems: runa-systems
+Scheduler, LLC: scheduler-llc
+SBCGroup: sbcgroup
+SCAND: scand
+ScienceSoft: sciencesoft
+Screen Customs s.r.o.: screen-customs-s-r-o
+SchoolBook: school-book
+Scorum: scorum
+SearchInform: searchinform
+Sellwin System: sellwin-system
+SDevs: sdevs
+Semantica-IT: semantica-it
+SENLA: senla
+SEO Круг: seo-krug
+Sensor Tower: sensor-tower
+SEOTAG: seotag
+Serpico: serpico
+Serverspace.by: serverspace-by
+SHANCE GAMES: shance-games
+Seodev: seodev
+Severex: severex
+Sheep Apps: sheep-apps
+ShopTo.By: shopto-by
+Sideways 6: sideways-6
+siera technolodji: siera-technolodji
+Signals Lab: signals-lab
+Silicon valley software group (svsg): silicon-valley-software-group-svsg
+Silk Data: silk-data
+SimpITy: simpity
+Simple Solutions: simple-solutions
+Simplepoint: simplepoint
+Singular Advertising: singular-advertising
+Singulart: singulart
+SITECH: sitech
+Sirion Soft: sirion-soft
+Sitewood: sitewood
+SiteFactory: sitefactory
+Sharekey: sharekey
+Sitronics Telecom Solutions: sitronics-telecom-solutions
+SK hynix memory solutions Eastern Europe: SK-hynix-memory-solutions-Eastern-Europe
+SivinTech Group: sivintech-group
+SKDO Systems: skdo
+Skybuffer: skybuffer
+Skynet Applied Systems: skynet-applied-systems
+Skyrocket: skyrocket
+Skynetix: skynetix
+Skywind Group: skywind-group
+SkillUP: skillup
+Smart IT: smart-it
+SLAM: slam
+SLSgroup: slsgroup
+Smart Satu: smart-satu
+Smart Vision Technologies: smart-vision-technologies
+SmartDesign: SmartDesign
+Smartgraf: smartgraf
+SmartApp: smartapptech
+SmartItSolutions: smartitsolutions
+Snowd security OU: ooo-edinye-resheniya
+Smartym Pro: smartym-pro
+Social Discovery Ventures: social-discovery-ventures
+Social Hunters: social-hunters
+SODAQ: sodaq
+Socialmart: socialmart
+SmartexLab: smartexlab
+Soft-FX: soft-fx
+Soft-staff: soft-staff
+Soft4Brokers: soft4brokers
+Softarex Technologies, Inc.: softarex-technologies-llc
+SoftClub: softclub
+Softgreat: softgreat
+Softeq Development: softeq-development
+Softline: softline
+Softacom: softacom
+Softo: softo
+SoftLook: softlook
+Softologies Inc.: softologies-inc
+Softprom: softprom
+SoftonWay: softonway
+SoftSwiss: softswiss
+SoftMatrix: softmatrix
+SOFTSIA: softsia
+SoftTeco: softteco
+Software Innovations: software-innovations
+Solarwinds: solarwinds
+Solid Expert: solidexpert
+SoftUniq: softuniq
+SolbegSoft: solbegsoft
+Solvd, Inc.: solvd-inc
+Solvy R&D: solvy-r-d
+SolveIt: solveit
+SONETICO: sonetico
+SPACE | EventSpace.BY: space
+Spappl inc.: spappl-inc
+Sparkler Soft: sparkler-soft-llc
+SpaceDog: spacedog
+Specific-Group: specific-group
+Sporso: sporso
+SpiralScout: spiralscout
+SplitMetrics: splitmetrics
+SpringWeb: springweb
+Spritecs: Spritecs
+SQILSOFT: sqilsoft
+SQUALIO: SqualioBelarus
+Staarter: staarter
+Stack by Appodeal: appodeal
+STACKLEVEL: stacklevel
+Starcostudio: starcostudio
+Stark Games: stark-games
+Start Matter: start-matter
+Startup StilDi: startup-stildi
+Steel Monkeys: steel-monkeys
+SteelSteedStudio: steelsteedstudio
+Stellio Team: stellio-team
+Stormnet: stormnet
+STK: stk
+Storyline: storyline
+Storymode: storymode
+Straut & Skobelev: straut-skobelev
+StyleSoft: stylesoft
+Success Craft: ooo-saktsess
+Suistapps: suistapps
+SumatoSoft: sumatosoft
+SVAPS Systems: svaps-systems
+Support.by: supportby
+swargo studio: swargo-studio
+SWS: programmnye-resheniya-plyus-sws-plus
+Sport.com: sport-com
+Sy-it plus: sy-it-plus
+Syberry: syberry
+SymfonyArt: symfonyart
+Synesis: synesis
+Synesis sport: synesis-sport
+Synesis Stratus: synesis-stratus
+SYNERGY-CONSULTING: synergy-consulting
+Sytech Bel: sytech-bel
+Sysprog: sysprog
+TadamGroup: tadamgroup
+Talenya: talenya
+Talaka: talaka-by
+Tanix Group: tanix-groupp
+Taqtile: taqtile
+Tapston: tapston
+Targetprocess: Targetprocess
+TargSoft: ooo-targsoft
+TeachMeSkills: teachmeskills
+TeachMeSkills (ТичМиСкиллз): teachmeskills-tichmiskillz
+SWD: swd
+Tealium: tealium
+TecArt: techwonks
+Technoton Engineering: technoton-engineering
+TechMedia: techmedia
+Techvice LLC: techvice-llc
+Tectus Media: tectus-media
+Tegrosoft: tegrosoft
+Telescopia: telescopia
+Telesphor Software: telesphor-software
+TerraScale LLC: terrascale-llc
+Teleolabs: teleolabs
+Teqniksoft: teqniksoft
+Texode Technologies: texode-technologies
+The Landing Page: the-landing-page
+The piJnz Group: the-pijnz-group
+Think Data Insights: think-data-insights
+ThinkPay: thinkpay
+TikGames: tikgames
+Timvero: timvero
+Toptal: toptal
+TOTL Center Group: totl-center-group
+Todes: todes
+Touchlane: touchlane
+TheHamon: thehamon
+Track-POD: track-pod
+Tracker Technologies: tracker-technologies
+TouchSoft: touchsoft
+TravelLine: travelline
+Trakhtenberg Consulting Agency: trakhtenberg-consulting-agency
+TravelSoft: travelsoft
+Triggre Studios: triggre-studios
+TravoLab: travolab
+Truly Social Games: truly-social-games
+TRexSoft: trexsoft
+Trilan: trilan
+TurboHeads: turboheads
+Turbomates Soft: turbomates-soft
+TUT.BY / HOSTER.BY: tut-by-hoster-by
+Twistellar: twistellar
+Twinslash: twinslash
+uMobilizer: umobilizer
+UNET.BY: unet-by
+Unicoding: unicoding
+Union Progress: union-progress
+Unisender: unisender
+UNIQ Digital: uniq-digital
+UniTesS: unitess
+UnitedTM: unitedtm
+Unmanned Helicopters Ltd.: unmanned-helicopters-ltd
+UPH Global: uph-global
+TulaCo: tulaco
+Upsilon-It: upsilon-it
+Urbis Брест: urbis-brest
+US Belar IT Group: us-belar-it-group
+UseResponse Inc: useresponse-inc
+UserExperience: userexperience
+UXpresso: uxpresso
+Unum: unum
+VarIT: varit
+Velmie: velmie
+Vertic: vertic
+VelvetDEV: velvetdev
+VG Group: vg-group
+Verv: verv
+VIAcode: viacode
+VibroBox: vibrobox
+Viber: viber
+Vigbo: vigbo
+Vilparts: vilparts
+viplay: vaypley-media
+Vilia: vilia
+Vipline: vipline
+VipSites: vipsites
+Visata Systems, LLC: visata-systems-llc
+Visiprise: visiprise
+Visutech System Ltd.: visutech
+Vivim: vivim
+VitLab: vitlab
+Vizor Games: vizor-games
+Vizarion Software: vizarion-software
+Vochi: vochi
+VironIT: vironit
+Vladimir Kozlovsky Lab: kozlovskilab
+Voloshin IT Agency: voloshin-it-agency
+VPI Systems: vpi-systems
+VRP Consulting: vrp-consulting
+vServices LTD: vservices-ltd
+WakeApp Development: wakeapp-development
+Warecorp: warecorp
+VRTek: vrtek
+Wandle: wandle
+Wargaming / Гейм Стрим: wargaming-geym-strim
+Waste Logics Software Limited: waste-logics-software-limited
+Wazimo: wazimo
+WANNABY: wannaby
+WaveOC Pte Ltd.: waveoc-pte-ltd
+weable.io: weable-io
+Web Focus: web-focus
+Web Marketing: web-marketing
+Weavora: weavora
+Web VIKI: web-viki
+Web-design Studio Company HoD: web-design-studio-company-hod
+Web-agent.by: web-agent-by
+Web2 Innovation: web2-innovation
+WebBuild: webbuild
+Webbox: veb-studiya-webbox
+WebileSoft: webilesoft
+WebAtom: webatom
+WebMatrix: webmatrix
+WebNewUp: webnewup
+WebProfi.me: ap-studio
+WEBPAY (ООО "ВЕБ ПЭЙ"): webpay-ooo-veb-pey
+WebRocco: webrocco
+WebCat: webcat
+WebSfera: websfera
+Wellnuts creative group: wellnuts-creative-group
+Wedextim: wedextim
+WERBDESIGN: werbdesign
+WeSafeAssistance: wesafeassistance
+West Ost Union (BUSLIK): west-ost-union-buslik
+Wheemplay: wheemplay
+Wimix: wimix
+Wild Spike: wild-spike
+Wisercat Software: wisercat-software
+WM Reply: wm-reply
+WordPress development agency "Seattleby": wordpress-development-agency-seattle
+Wizart: wizart
+WorkSoftBench: worksoftbench
+WorkFusion, Inc.: workfusion-inc
+WoxLink Development: ooo-vokslink-development
+WSP-Design: wsp-design
+X-creative: x-creative
+XB Software: xb-software
+Xform Computing Inc.: xform-computing-inc
+Wowmaking: wowmaking
+XPGraph: xpgraph
+Xmark: xmark
+XLogics: xlogics
+Xtrematic: xtrematic
+Y-NODE Software: y-node-software
+YayFon Technologies: yayfon-technologies
+Yellow: yellow
+Yopolis Lab, LLC: yopolis-lab-llc
+YUDWAY LLC: yudway-llc
+Yotec: yotec
+XPRIDE: xpride
+Zenith Media: zenith-media
+Z-Wolves Development: z-wolves-development
+Zensoft: zensoft
+Zephyr Mobile: zephyr-mobile
+Zifferblatt: zifferblatt
+Zorachka Soft: zorachka-soft
+ZIEX: ziex-media
+ZubrSoft: zubrsoft
+А2 Консалтинг | A2 Consulting: a2c
+Аверсон-Софт: averson-soft
+Автоматизация - 2000: avtomatizatsiya-2000
+АГАТ-системы управления: agat-sistemy-upravleniya
+Агенство БитАктив: agenstvo-bitaktiv
+Zorka.Mobi: zorka-mobi
+Агентство Интернет Технологий: agentstvo-internet-tehnologiy
+Агентство комплексных решений "CHROME": agentstvo-kompleksnyh-resheniy-chrome
+Администрация ПВТ: administratsiya-pvt
+Адекта: adekta
+Азбука управления: azbuka-upravleniya
+Администрива: administriva
+Айок: ayok
+Азон Трейд: azon-treyd
+Айти Солюшнз: ayti-solyushnz
+АйТи Партнер: ayti-partner
+АЙТИ Центр: ayti-tsentr
+Айчына Плюс: aychyna-plyus
+АйтиШаг Гомель: aytishag-gomel
+Академия BIGROI: akademiya-bigroi
+Активные Системы: aktivnye-sistemy
+Альтрграфик: altrgrafik
+Акавіта: akavita
+Алавир: alavir
+АльфаКИТ: alfakit
+АлюсофтБел: alyusoftbel
+АМГ-Консалт: amg-konsalt
+АМТ-ГРУП: amt-grup
+Альфа: alfa
+Андата: andata
+АндМ Софт: andm-soft
+Анталоджик: ooo-antalodzhik
+Ариол Медиа: ariol-media
+АртВэбБай: artvebbay
+Атлант-М Tech: atlant-m-tehnologii
+АтлантКонсалт: atlantconsult
+Атрио групп: atrio-grupp
+Байт протект: byte-protect
+Байпорт: bayport
+АСКОН-Неман: askon-neman
+БелБай Групп: belbay-grupp
+Белинфопортал: belinfoportal
+БелИнформМобил: belinformmobil
+БГУИР: bguir
+БелПримИнвест: belpriminvest
+Белсвязьсеть: belsvyazset
+БЕЛСМАРТ СИСТЕМЫ: belsmart-sistemy
+Белтекс Оптик | Yukon Advanced Optics Worldwide: belteks-optik
+Белфортекс: belforteks
+БелМобайлСофт: belmobaylsoft
+Бенефит бай: benefit-bay
+Берлио: berlio
+Би-Лоджик: bi-lodzhik
+БизнесПрограммы: biznesprogrammy
+БиСмарт: bismart
+БОКУП ЦВНТР: bokup-tsvntr
+Бонер: boner
+Белый кИТ РнД: belyy-kit-rnd
+Букмекерская компания Maxline: maxline
+Бонускарт: bonuskart
+Белтехмедиа: beltehmedia
+Веб Студия Tomson: veb-studiya-tomson
+Букмекерская компания Maxline: ooo-finansovo-investitsionnaya-kompaniya-inho
+Веб-студия AnDiV: veb-studiya-andiv
+Веб-студия "Пингвин": veb-studiya-pingvin
+Веб-студия IToblaka: veb-studiya-itoblaka
+Веб-студия VMN.BY: vmn-by
+Веб-студия Wecan: veb-studiya-wecan
+Веб-студия ВЭБЛАБ: veb-studiya-veblab
+Вераксен: veraxen
+Вебернетик: webernetik
+Визент Медиа: vizent-media
+Веб-студия "Edulab": veb-studiya-edulab
+ВирусБлокАда: virusblokada
+Виртуальные радости: virtualnye-radosti
+Виртуальный свет: virtualnyy-svet
+ВОТЕ ОХО: vote-ooo
+ВЦ Мингорисполкома: vts-mingorispolkoma
+Гид-медиа: gid-media
+Гиперлинк, интернет-агентство: giperlink
+Глобал Диджитал Консалтинг: global-didzhital-konsalting
+ГородИнфо: gorodinfo
+Гранд Парк: grand-park
+Группа компаний 4Д: gruppa-kompaniy-4d
+Группа компаний КАП: gruppa-kompaniy-kap
+Группа компаний МУК: gruppa-kompaniy-muk
+ВОТКЛИК: votklik
+Группа компаний ЭтикетСервис: gruppa-kompaniy-etiketservis
+Делай Дело: delay-delo
+Деловой портал: delovoy-portal
+Деловые Системы Связи: delovye-sistemy-svyazi
+Джет ФОРС: dzhet-fors
+Джей-медиа: dzhey-media
+Дизайн-бюро 2Geart: dizayn-byuro-2geart
+Дизайн - студия Креативно: dizayn-studiya-kreativno
+Джей лаб: jlab
+Дисконтный клуб: diskontnyy-klub
+ДЭКУЭС Бел: dekues-bel
+ДэксэтСервис: deksetservis
+Евразийская Процессинговая Компания: evraziyskaya-protsessingovaya-kompaniya
+ЗАО "Банковско-финансовая телесеть": zao-bankovsko-finansovaya-teleset
+Единый Кошелек: edinyy-koshelek
+Завадатар: zavadatar
+ЗАО "Струнные технологии": skyway-technologies-co
+ЗАО "Сервис Деск": service-desk
+ИВЦ Облсельхозпрода: ivts-oblselhozproda
+Иквадарт: ikvadart
+Инавеб: inaveb
+Индивидуальный предприниматель Курманов Иван Вячеславович: individualnyy-predprinimatel-kurmanov-ivan-vyacheslavovich
+ИМПА: impa
+Индивидуальный предприниматель Мельников Роман Валерьевич: individualnyy-predprinimatel-melnikov-roman-valerievich
+Инновация: innovatsiya
+Инком интер: inkom-inter
+ИнноТех Солюшнс: innoteh-solyushns
+Интеллектуальные Системы: intellektualnye-sistemy
+ИНИС-СОФТ: inis-soft
+Интермех: intermeh
+Интернет Агентство Bellka.By: internet-agentstvo-bellka-by
+Интернет Рынок: internet-rynok
+Интернет-Маркетинг: internet-marketing
+Информационный консалтинг: informatsionnyy-konsalting
+ИП Андрей Кудрицкий: ip-andrey-kudritskiy
+ИП Гайдук Дмитрий Александрович: ip-gayduk-dmitriy-aleksandrovich
+ИП Сосновский: ip-sosnovskiy
+ИНТЕГРАЛ: integral
+ИП Терновский Артем Александрович: sitewerk-digital-solutions-gmbh
+ИП Ремша Д.М.: ip-remsha-d-m
+ИП Хотянович А.В.: ip-hotyanovich-a-v
+ИП,Горский А.Ю,: ip-gorskiy-a-yu
+ИП Чалевич Н.В.: ip-chalevich-n-v
+ИП Филипович В.В.: ip-filipovich-v-v
+Исида-Информатика: isida-informatika
+ИТ-Академия Белхард: it-akademiya-belhard
+ИТС-Бел: its-bel
+ИУП "1С-Битрикс": iup-1s-bitriks
+КАМО АйТи: kamo-ayti
+Карголинк: cargolink
+Итач-софт: itach-soft
+КасперСистемс: kaspersistems
+Каспер SEO: kasper-seo
+КАТЭК: katek
+КБ Радар: kb-radar
+КБ СП Технотон: kb-sp-tehnoton
+Компьютерная Академия "Шаг": kompyuternaya-akademiya-shag
+Компатибл: CompatibL
+КОМПЛИТ: komplit
+Комсервис: komservis
+Компьютерные курсы Comp-As: kompyuternye-kursy-comp-as
+Креатив-Лаборатория 82: kreativ-laboratoriya-82
+Креативная Студия Кукушка: kreativnaya-studiya-kukushka
+КРИОС: krios
+Кредосистемс: kredosistems
+Лаборатория информационных технологий: laboratoriya-informatsionnyh-tehnologiy
+Креатек: kreatek
+Лаборатория 50: lab-50
+Лаборатория тестирования: laboratoriya-testirovaniya
+Лайм Медиа: laym-media
+Лайкит: laykit
+Лендинг Пейджес: lending-peydzhes
+Лингвистический софт: lingvisticheskiy-soft
+ЛюксСофт: lyukssoft
+Максипрософт: maksiprosoft
+Майхип: mayhip
+МАПСОФТ: mapsoft
+Масштабные решения: masshtabnye-resheniya
+Лэб 42: leb-42
+Мебиус: mebius
+МегаСайтГрупп: megasaytgrupp
+Мегаплан: megaplan
+Микроинформ: mikroinform
+Микропроцессорные технологии: mikroprotsessornye-tehnologii
+Минти Лаб: minti-lab
+МигСофт: migsoft
+МиСофт: misoft
+Мобикон-Медиа: mobikon-media
+МИОДАТ: miodat
+Мобити: mobitee
+МТС ИТ: mts-it
+Мобильные Решения Плюс: mobilnye-resheniya-plyus
+Настоящие Технологии ООО: nastoyaschie-tehnologii-ooo
+Национальный центр электронных услуг: natsionalnyy-tsentr-elektronnyh-uslug
+Наш Белый Дом: nash-belyy-dom
+НИИ ТЗИ: nii-tzi
+НВП Модем: ModemLtd
+НИИЭВМ: niievm
+НИИЭВМсервис: niievmservis
+НЕКЛО: neklo
+Новадо софт: novado-soft
+НКА: nka
+НПООО ОКБ ТСП: npooo-okb-tsp
+НПП БЕЛСОФТ, ЗАО: npp-belsoft-zao
+Норбит: norbit
+НТЦ КГБ: ntts-kgb
+НТЦ Контакт: ntts-kontakt
+НЦЭУ: ntseu
+ОАО "Банковский процессинговый центр": oao-bankovskiy-protsessingovyy-tsentr
+ОАО "БМРЦ": oao-bmrts
+Образовательные системы: obrazovatelnye-sistemy
+Образовательный центр программирования и высоких технологий (IT-Academy): it-academy
+ОДО "СТРИМ": odo-strim
+Огромная черепаха: ogromnaya-cherepaha
+ОДО Прософт: odo-prosoft
+НТП Центр: ntp-tsentr
+ОИРСО ЦИИР БГУИР: oirso-tsiir-bguir
+Ой-Ли Технолоджи: oy-li-tehnolodzhi
+ОИПИ НАН Беларуси: oipi-nan-belarusi
+ОНРЕП: onrep
+ООО "BelBIGroup": ooo-belbigroup
+ООО "Айти Профешнл": ooo-ayti-profeshnl
+ООО "АпГруп": ooo-apgrup
+ООО "Бритиш Бизнес Сервисис": ooo-british-biznes-servisis
+ООО "Байкард": ooo-baykard
+ООО "Бюро технологических решений": ooo-byuro-tehnologicheskih-resheniy
+ООО "ВайФай Мэп": ooo-vayfay-mep
+ООО "ВебФокс": ooo-vebfoks
+ООО "ВКС Технологии и системы": ooo-vks-tehnologii-i-sistemy
+ООО "ВсетиБай": ooo-vsetibay
+ООО "АДМсолюшн": ooo-admsolyushn
+ООО "ГУДДИЛ": ooo-guddil
+ООО "ДАБ ГЛОБАЛ": dab-creative
+ООО "ИтерТех Инновэйшенс": ooo-iterteh-innoveyshens
+ООО "Воидаинт": ooo-voidaint
+ООО "МедиаСтройИмидж": ooo-mediastroyimidzh
+ООО "Мобайл Дисконт Систем": ooo-mobayl-diskont-sistem
+ООО "Лэмплайтер": ooo-lemplayter
+ООО "Пикалитикс": ooo-pikalitiks
+ООО "ИнфоИдея": ooo-infoideya
+ООО "СКБ "Радиотехпроект": ooo-skb-radiotehproekt
+ООО "Рифтэк": ooo-riftek
+ООО "Современный город": ooo-sovremennyy-gorod
+ООО "Софткорп": chp-softkorp
+ООО "ТехноИнновация": ooo-tehnoinnovatsiya
+ООО "Тиспр": ooo-tispr
+ООО "Топ Софт": korporatsiya-galaktika
+ООО "Открытый Контакт": ooo-otkrytyy-kontakt
+ООО "Эверданс": ooo-everdans
+ООО "Электронная экономика": ooo-elektronnaya-ekonomika
+ООО "Энвижен" (neoviso™): ooo-envizhen-neoviso
+ООО "ЭнФэйз Системс": ooo-enfeyz-sistems
+ООО “Йондер Медиа Мобайл БиУай": yonder-media-mobile
+ООО «АскерВЕБ»: askerweb
+ООО «ВЭБ Технологии»: ooo-veb-tehnologii
+ООО «СофтЛид»: ooo-softlid
+ООО «Зиекс»: ooo-zieks
+ООО ITT Communications: itt-communications
+ООО «ЭлитСофт»: ooo-elitsoft
+ООО БелТрасБилет: ooo-beltrasbilet
+ООО ДЭМСОЛС: ooo-demsols
+ООО Инфотехнологии: ooo-infotehnologii-group-of-companies-xim-inc-ximad-inc
+ООО ИТР Софт: ooo-itr-soft
+ООО Моментум Бел: ooo-momentum-bel
+ООО СНМТ Технолоджис: ooo-snmt-tehnolodzhis
+ООО Хаски медиа: ooo-haski-media
+ООО "ФоксТри": ooo-fokstri
+ООО Ямото Самокато: ooo-yamoto-samokato
+ОТР: otr
+ПАПАКАЯ: papakaya
+ПКБ «Витебск»: pkb-vitebsk
+Первая Линия: pervaya-liniya
+Поток Проектов: potok-proektov
+ООО ЭМКОМ Интернэшнл: ooo-emkom-interneshnl
+Представительство PamConsult Gmbh в Минске: predstavitelstvo-pamconsult-gmbh-v-minske
+Программы-Проекты: programmy-proekty
+Прогрессив Софт: progressiv-soft
+ПраймСофт: praymsoft
+Проектный офис: proektnyy-ofis
+Реактивные технологии: reaktivnye-tehnologii
+Профит: profit
+Промо Пикс: promo-piks
+Речевые технологии: rechevye-tehnologii
+Решения будущего: resheniya-buduschego
+РиэлтБай: rieltbay
+СайтФутур: saytfutur
+С-Терра Бел: s-terra-bel
+Связьинформсервис: svyazinformservis
+Свой Сайт: svoy-sayt
+Связьинвест: siware
+Сенсотроника: sensotronika
+Сеоклик/SeoClick: seoklik-seoclick
+СвязьПартнер: svyazpartner
+Сеотим Медиа / SEOTEAM: seotim-media-seoteam
+Сервис Ай-Ти: servis-ay-ti
+СИС Инжиниринг: sis-inzhiniring
+СИСТЕМНЫЕ ТЕХНОЛОГИИ: SystemTechnologies
+СистемаСофтИТ: ooo-sistemasoftit
+Системы для бизнеса: sistemy-dlya-biznesa
+Сител: sitel
+СКБ Камертон: skb-kamerton
+Смартпро: smartpro
+СмартСатуЛаб: smartsatulab
+Словодар: slovodar
+Создание сайтов ALIVA: sozdanie-saytov-aliva
+СООО Левальд Сервисиз: sooo-levald-servisiz
+СООО Силабс: sooo-silabs
+Софтмакс системы телеметрии: softmaks-sistemy-telemetrii
+СофтСервис: softservis
+СП "Технотон": sp-tehnoton
+СофтВек: softvec
+Спортдата: sportdata
+СпроАйТи: sproayti
+Старонка: staronka
+Студия Борового: studiya-borovogo
+Студия веб-дизайна DreamTeam: dreamteam
+Студия Дмитрия Кравцова: studiya-dmitriya-kravtsova
+Студия интернет рекламы Андрея Терентьева: studiya-internet-reklamy-andreya-terentieva
+Студия Райт: studiya-rayt
+Телеконтакт: telekontakt
+Территория АйТи: territoriya-it
+Софтэйл: softeyl
+ТЕХНИКОН: tehnikon
+Студия Черенкевича: studiya-cherenkevicha
+Технологии Успеха: technology-union
+ТКП-Софт: tkp-soft
+Топ Системы: top-sistemy
+тотл центр групп: totl-tsentr-grupp
+Учебный центр SoftLine: uchebnyy-tsentr-softline
+Фабрика брендов: fabrika-brendov
+Фабрика игр: fabrika-igr
+Фортунатум: fortunatum
+ФП Трэйд: fp-treyd
+Хуткi Грош: hutki-grosh
+Хьюмен Систем: hyumen-sistem
+ТКсэт: tkset
+Хэпикс: happix
+Центр банковских технологий: tsentr-bankovskih-tehnologiy
+Центр Бизнес Решений: tsentr-biznes-resheniy
+Центр Интернет маркетинга: tsentr-internet-marketinga
+Центр Знаний: tsentr-znaniy
+Центр инфо технологий: tsentr-info-tehnologiy
+Центр Корпоративных Технологий: tsentr-korporativnyh-tehnologiy
+Центр Прогрессивных Разработок: tsentr-progressivnyh-razrabotok
+Цифровое агентство ВИДЖЕТСОФТ: tsifrovoe-agentstvo-vidzhetsoft
+ЧУП "ГРАНКОМ": ooo-interkonest
+ЧУП БелТехноСофт: beltech-inc-chup-beltehnosoft
+Школа программирования: shkola-programmirovaniya
+Швейная традиция: shveynaya-traditsiya
+Экономика-софт: ekonomika-soft
+ЭксПиЭм Рус: ekspiem-rus
+Экстмедиа: ekstmedia
+ЭмпатиБай: empatibay
+ЭнкиСофт: enkisoft
+ЭстерСтар: esterstar
+Энпровиа: enprovia
+ЭтикетСервис: etiketservis
+ЮрСпектр: yurspektr
+Яндекс: yandex
+Эйво: eyvo

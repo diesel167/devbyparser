@@ -1,33 +1,57 @@
 let puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-const EventEmitter = require("slimerjs");
-let companies = [];
+let from = 450; //start number of arrange
+let to = 500;//end of arrange
 
 
-
-
-
-
-
-
-
-
-
+//request to one site of company
+async function makeRequest(page, url) {
+  return await page.goto(url, { waitUntil: 'networkidle0' })
+      .then(() => {
+        //page.waitFor(1000);
+        //if web company add to table in html
+        let temp1;
+        return new Promise(async (res, rej) => {
+          //wait content dynamic load
+            temp1 = await page.evaluate((url) => {
+              let spheres = document.getElementsByClassName('gray')[0].innerHTML.split(', ');
+              let isWeb = false;
+              spheres.map(sphere => {
+                if (sphere.replace(/\r?\n/g, "") === 'Web'){
+                  isWeb = true;
+                }
+              });
+              if(isWeb){
+                return new Promise((resolve, reject) => { // <-- return the data to node.js from browser
+                  let name = document.querySelector('h1').innerHTML;
+                  let email = document.getElementsByClassName('sidebar-views-contacts h-card vcard')[0]
+                      .children[2].children[0].children[0].innerHTML;
+                  resolve([email,name,url]);
+                });
+              }
+            });
+            res(temp1);
+        })
+      })
+}
 
 (async() => {
-  const browser = await puppeteer.launch({headless:false});
+
+  //start browser
+  const browser = await puppeteer.launch({defaultViewport: null, headless: false});
   let page = await browser.newPage();
   const url = 'https://companies.dev.by/';
 
-  //find emails and names
+  //find all emails and names
   await page.goto(url, { waitUntil: 'load' });
   let getNames = () => {
     return page.evaluate(async () => {
+      let list = [];
       return await new Promise(resolve => { // <-- return the data to node.js from browser
-        let list = [];
         [...document.getElementsByTagName("tbody")[0].children].map(child=>{
           list.push(child.children[0].children[0].href.split('/')[3]);
+          console.log(child.children[0].children[0].innerText);
         });
         resolve(list);
       });
@@ -36,114 +60,31 @@ let companies = [];
   let arrayNames = await getNames();  //get link-names of companies
 
 
-
-  //get name and email from one by one site
-  /*let getNameAndEmail = () => {
-    return page.evaluate(async () => {
-      return await new Promise(resolve => { // <-- return the data to node.js from browser
-        //all companies !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!without WEB filter!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        console.log(!!document);
-        let name = document.querySelector('h1').innerHTML;
-        let email = document.getElementsByClassName('sidebar-views-contacts h-card vcard')[0]
-            .children[2].children[0].children[0].innerHTML;
-        resolve(email);
-      });
-    })
-  };*/
-
-
-
-  //main code
-  /*for(let i=0;i<await arrayNames.length;){
-    let nameUrl = await arrayNames[i];
-    if (i<4){
-      let temp1;
-      console.log(`начинаем цикл для ${nameUrl}`);
-      await page.goto(`https://companies.dev.by/${nameUrl}`, { waitUntil: 'load' })
-          .then(()=>{
-              page.waitFor(5000);
-            return new Promise(res=> {
-              //wait content dynamic load
-              temp1 = page.evaluate(() => {
-                return new Promise(resolve => { // <-- return the data to node.js from browser
-                  let name = document.querySelector('h1').innerHTML;
-                  let email = document.getElementsByClassName('sidebar-views-contacts h-card vcard')[0]
-                      .children[2].children[0].children[0].innerHTML;
-                  resolve(email);
-                });
-              });
-            })
-           })
-          //})
-          .then((res)=>{
-              console.log(`https://companies.dev.by/${nameUrl}`,temp1);
-              i++;
-          });
-    }
-    else{
-      break
-    }
-  }*/
-
-
-  require('events').EventEmitter.prototype._maxListeners = 1700;
-  async function makeRequest(page, url) {
-    let tempPage = await browser.newPage();
-    return await tempPage.goto(url, { waitUntil: 'networkidle0' })
-        .then(() => {
-          tempPage.waitFor(7000);
-          let temp1;
-          return new Promise(async (res) => {
-            //wait content dynamic load
-            temp1 = await tempPage.evaluate(() => {
-              return new Promise((resolve, reject) => { // <-- return the data to node.js from browser
-                let name = document.querySelector('h1').innerHTML;
-                let email = document.getElementsByClassName('sidebar-views-contacts h-card vcard')[0]
-                    .children[2].children[0].children[0].innerHTML;
-                resolve(email);
-              });
-            });
-            res(temp1);
-          }).then(()=> tempPage.close())
-        })
-  }
-
+  let tempar = await arrayNames.slice(from,to);
   let tasks = [];
-  for (let i = 0; i < 8; i++) {
-    tasks.push( await makeRequest(page, `https://companies.dev.by/${arrayNames[i]}`));
+  for (const url of await tempar) {
+    tasks.push( await makeRequest(page, `https://companies.dev.by/${url}`));
   }
   Promise.all(tasks)
       .then((res) => {
-        for (let i = 0; i < 8; i++) {
-          console.log(`https://abcdsite.com/${arrayNames[i]}`, res[i]);
+        let toWrite ='';
+        const newFile = path.join(__dirname,'files','companies.txt');
+        for (let i = 0; i < tempar.length; i++) {
+          if(res[i]){
+            console.log(`${res[i][1]}: ${res[i][0]}`);
+            toWrite = toWrite.concat(`${res[i][1]}: ${res[i][0]}\n`);
+          }
         }
+        fs.appendFile(newFile,toWrite,err=>{
+          if(err){
+            throw err;
+          }
+          console.log('finished');
+        });
       });
-
 })();
 
 
-
-
-/*
-let spheres = document.getElementsByClassName('gray')[0].innerHTML.split(', ');
-//if web company add to table in html
-spheres.map(sphere => {
-  if (sphere.replace(/\r?\n/g, "") === 'Web'){
-    console.log(document.querySelector('h1').innerText);
-  }
-});
-let name = document.querySelector('h1').innerText;
-let email = document.getElementsByClassName('sidebar-views-contacts h-card vcard')[0]
-    .children[2].children[0].children[0].innerHTML;
-companies.push({name: email});
-const newFile = path.join(__dirname,'files','companies.txt');
-fs.writeFile(newFile,`${name}:${email}`,err=>{
-  if(err){
-    throw err;
-  }
-  console.log(`Успешно найдено ${name}`)
-});
-*/
 
 
 
