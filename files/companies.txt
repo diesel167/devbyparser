@@ -56,7 +56,7 @@ ArasCorp Development Center: jobs.by@aras.com
 Arateg: ilya.rubl@arateg.by
 Arcom Group: support@arcom.group
 Arcom Group ltd.: support@arcom.group
-Aristek Systems: ⋯
+Aristek Systems: support@aristeksystems.com
 Ariteta: info@ariteta.by
 Armada Labs: contact@armadalabs.com
 Artcroix: info@artcroix.by
@@ -88,7 +88,7 @@ BeatDev: contact@beatdev.by
 BelaBios IOOO: info@belabios.com
 BELHARD: info@belhard.com
 BelitSoft: hrm@belitsoft.com
-BelPrime : jobs@belprime.com
+BelPrime: jobs@belprime.com
 Beltechsoft (Белтехсофт): sales@beltechsoft.com
 BelVG: info@belvg.com
 BESK: besk_hello@besk.com
@@ -105,17 +105,17 @@ Brimit: info@brimit.com
 BSL: hr@bsl.dev
 BuzzGuru: pavelbeinia@gmail.com
 CactusSoft: info@cactussoft.biz
-Capsilon: ⋯
+Capsilon: sasha.kosobutsky@capsilon.com
 Caspel: info@caspel.by
-Cedon BLR: ⋯
+Cedon BLR: hr@cedoni.com
 Centaurea: contact@centaurea.io
 CETC: info@cetc.by
 ChainArtSoft: pm@chainartsoft.com
 CIB software: info@cib.by
 Ciklum: minsk@ciklum.com
-CleverLabs: ⋯
+CleverLabs: ruslan.yemchyk@cleverlabs.io
 Clevertec: hr@clevertec.ru
-Clickmedia: ⋯
+Clickmedia: info@clickmedia.by
 CloudCall BY: infoby@cloudcall.com
 Cluster Systems: direct@alpsweb.by
 Code Inspiration: info@codeinspiration.pro
@@ -143,36 +143,36 @@ Cuspy Software: info@cuspy.io
 Custodesk: Inbox@it.custodesk.com
 Cyberport: office@cyberport.by
 Cygno Solutions: ikountsevich@cygno.com
-D8 Corporation: ⋯
+D8 Corporation: d8belarus@d8corp.com
 DashBouquet Development: contact@dashbouquet.com
-DataMola: ⋯
+DataMola: info@datamola.com
 DataRobot: careers@datarobot.com
-datarockets: ⋯
-Daymare Web Studio: ⋯
+datarockets: hello@datarockets.com
+Daymare Web Studio: info@daymare.by
 Dektry: hello@dektry.com
 Delium: Minsk@del.by
 Dev Team: apoklyak@dev-team.com
 Devicepros: info@devicepros.net
-DEVXED: ⋯
-Digesta Digital: ⋯
-Digital Forest: ⋯
-Digital Top: ⋯
+DEVXED: nadias@devxed.com
+Digesta Digital: ds@dda.by
+Digital Forest: contact@digiforest.io
+Digital Top: sales@digital-top.com
 Digitalizm: hello@digitalizm.com
-DigiTech7: ⋯
-Digiteum: ⋯
-Distillery: ⋯
+DigiTech7: christina.benediktovich@digitech7.by
+Digiteum: hello@digiteum.com
+Distillery: z.gasanova@distillery.com
 Dizzain: hr@dizzain.com
-Dream Support: ⋯
-Dual Lab: ⋯
+Dream Support: nikita@dreamsupport.io
+Dual Lab: ekaterina.bondar@duallab.com
 DYNEVO: contact@dynevo.org
-DZENSOFT: ⋯
-EasyProjects.NET: ⋯
-Efectura: ⋯
-EffectiveSoft Ltd.: ⋯
-Efir Media: ⋯
+DZENSOFT: info@dzensoft.com
+EasyProjects.NET: alexandra.nesterova@logicsoftware.net
+Efectura: yalkin@efectura.com
+EffectiveSoft Ltd.: hrm@effectivesoft.com
+Efir Media: info@efirmedia.com
 Egorov Agency: welcome@egorovagency.by
-Eightydays.me: ⋯
-EIS Group: ⋯
+Eightydays.me: aleh@ontourcloud.com
+EIS Group: minsk@eisgroup.com
 ElateSoftware: hr@elatesoftware.com
 Elinext: careers@elinext.com
 Ellipsoit Plus Ltd: egrudnitskiy.ellipsoit@gmail.com
@@ -180,38 +180,176 @@ ElmoSoft: info@elmosoft.net
 ELTEAM GROUP: liza.glazina@elteam-group.com
 Emerline: info@emerline.com
 Enable IT: r.gneiding@enable-it.online
-EPAM: ⋯
-Epicmax: ⋯
-Epol Soft: ⋯
-Espectro: ⋯
-ETNA: ⋯
-EVOKE Systems: ⋯
-Evolution Gaming: ⋯
-eWave: ⋯
-Exadel: ⋯
-Expert Soft: ⋯
-Exposit: ⋯
-ExtBel: ⋯
-Extrit.by: ⋯
-Factory 16: ⋯
+EPAM: info@epam.com
+Epicmax: andrei@epicmax.co
+Epol Soft: job@epolsoft.com
+Espectro: info@espectro.org
+ETNA: job-mogilev@etnasoft.com
+EVOKE Systems: hr@evoke.by
+Evolution Gaming: atarasyuk@evolutiongaming.com
+eWave: careers@ewave.com
+Exadel: job-minsk@exadel.com
+Expert Soft: hcm@expert-soft.by
+Exposit: hr@exposit.com
+ExtBel: info@extbel.com
+Extrit.by: office@extrit.com
+Factory 16: info@factory16.by
 GERSIS SOFTWARE: info@gersis-software.com
 getbob digital agency: contact@getbobagency.com
 GICSOFT: i.golovaty@gicsoft-europe.com
 Globant: belarus@globant.com
-Godel Technologies Europe: ⋯
+Godel Technologies Europe: job@godeltech.com
 GoodSoft: sales@good-soft.com
-Goozix: ⋯
-GP Solutions: ⋯
-Green Moon: ⋯
+Goozix: hi@goozix.com
+GP Solutions: jobs@gpsolutions.com
+Green Moon: info@greenmoon.by
 Gresbi: hello@gresbi.com
-Grinteq: ⋯
-GRIZZLY DIGITAL COMPANY: ⋯
-Gusarov Group: ⋯
-HA – Interactive brand studio: ⋯
+Grinteq: mika@grinteq.com
+GRIZZLY DIGITAL COMPANY: info@grizzly.by
+Gusarov Group: info@gusarov.by
+HA – Interactive brand studio: info@hainteractive.com
 Hackspace: v.barodzich@hackspace.by
-HardCode: ⋯
-HardSoft Robotics: ⋯
-Heapix Development: ⋯
+HardCode: olga.sbrodava@gmail.com
+HardSoft Robotics: hr@hardsoftrobotics.com
+Heapix Development: contact@heapix.com
 helenova: dev@dev.by
-HF-Solution: ⋯
-HiQo Solutions: ⋯
+HF-Solution: yuri.gers@hf-solution.com
+HiQo Solutions: rabota@hiqo-solutions.com
+Humans: team.minsk@humans.net
+humansee labs: info@humanseelabs.com
+Hytex Solutions Ltd: byqdes@gmail.com
+ib.by: koltun@ib.by
+IBA Gomel: resume@gomel.iba.by
+IBA Group: resume@iba.by
+iCode: hr@icode.by
+ID Finance: hrminsk@idfinance.com
+IdeaSoft: hr@i-deasoft.com
+IDT Belarus: minsk-hr@idt.net
+iFuture: hr@ifuture.by
+IGIES: mailbox@igies.com
+Ihighload: info@ihighload.info
+IHS Markit: jobminsk@ihsmarkit.com
+iKantam: support@ikantam.com
+ilavista: mail@ilavista.by
+INDI: hello@indi.by
+InGrid Lab: ⋯
+inNativeLife / ShaurmaLab: innativelife@gmail.com
+InSales: hello@insales.by
+Inspectorio: ⋯
+intelex: contact@intelex.by
+INTELICO: connect@intelico.su
+Intellect IT: support@intellectit.by
+Intellectsoft: anna.rybchenko@intellectsoft.net
+InterDelight: admin@dumki.by
+InterTech Solution: info@intertechsolution.com
+Intervale: ydeshkovich@intervale.ru
+Intetics: job@intetics.com
+IntexSoft: job@intexsoft.by
+Invatechs Software: info@invatechs.com
+IPOS.BY: info@ipos.by
+IQClash: hr@iqclash.com
+ISsoft: job@issoft.by
+IT Band Systems: info@it-band.by
+IT Partner: ki@it-partner.ru
+it_wave: contact@it-wave.by
+ITB / Информационные технологии бизнеса: info@itb.by
+iTechArt Group: careers@itechart-group.com
+Itexus Soft: jobs@itexus.com
+ITHub: hello@ithub.pro
+itictory: hr@itictory.com
+ITM House: contact@itmhouse.com
+ITMEDIA: andrey@itmedia.by
+ITOS: info@itosweb.com
+itpro: danila@irpro.by
+Itransition: hh@itransition.com
+ITRex Group: yulia.adamchik@itrexgroup.com
+ITS Partner: hr@itspartner.net
+ITSupportMe: yshuchalina@itsupportme.com
+ITzone: info@itzone.by
+Ivelum: job@ivelum.com
+JayDevs: yulia.zaitseva@jaydevs.com
+Jazz Pixels: info@jazzpixels.com
+JETWEB: kaplevsky@gmail.com
+Jordan Traffic: hello@jordantraff.com
+Just Studio: info@just-studio.by
+Kairus: info@thekairus.com
+Kakadu Dev: info@kakadu.bz
+Kaseya: aleksey.shafransky@kaseya.com
+Key Group: ekaterina.h@key-g.com
+KeySequences: aleks@keysequences.com
+Kibernetiko: hello@kibernetiko.com
+Kitkard: kitkardinfo@gmail.com
+Klika Tech: info@klika-tech.com
+Komspek: alena@komspek.com
+Kontur: minsk-jobs@kontur.io
+KVITKI BY: info@kvitki.by
+Labinvent: info@labinvent.com
+Lamanteam: info@lamanteam.by
+Lansoft: ⋯
+Lepshey: info@lepshey.ru
+LeverX: careers@leverx.com
+lifetech: info@lifetech.by
+Light Well Organization: kuznetsova_o@lwo.by
+Lightpoint Global: hr@lightpointglobal.com
+Lime-Express: limexpress.by@gmail.com
+LINKOR: hr@link-or.net
+Litussoft: info@litussoft.com
+LLC AG Software: info@agsoftware.by
+LLSOFT: hr@llsoft.by
+Logic Way: job@logic-way.com
+Lotasoft: info@lotasoft.com
+LOVATA: info@lovata.com
+Lyte: sasha@lyte.com
+MADCODERS: office@madcoders.by
+Magedia: contact@magedia.com
+Mainsoft: hr@mainsoft.org
+Maksis Digital Agency: info@maksis.by
+Malanka: i@malanka.pro
+Manao: hr@manao-team.com
+Manufact: sdt@manufact.pro
+Marccoon Digital: info@fullstack.by
+Master-M: info@master-m.by
+Masterstroke LTD: info.mstroke@gmail.com
+Maxbitsolution: t.ventsko@jetmail.cc
+MAXI.BY media: media@maxi.by
+MBicycle: mbicycle.admin@mbicycle.com
+MecaSoft: 4taniakonanevich@tut.by
+mediacube: info@mediacube.network
+MEG Analytics: info@meg-analytics.com
+Megarost Group: admin@megarost.by
+MegaSOFT: pepsikola@bk.ru
+METAGILE: metagile@gmail.com
+Metatag Digital: hello@metatag.by
+Mifort: hr@mifort.org
+Millcom: info@millcom.by
+Mitrix Technology: info@mitrix.io
+Molimo: timur.tazhbayev@gmail.com
+monostack: oleg.romeyko@gmail.com
+Mraid.io: alex@mraid.io
+Mühlemann &amp; Popp Online Media AG: marina.krishkevich@muehlemann-popp.ch
+Myagi: dev@myagi.com
+MyNetDiary Inc: drachev@mynetdiary.com
+NaStarte.by: top@nastarte.by
+NeatTech: nastassia@neattech.io
+Netcracker: HumanResourceMinskGroup@netcracker.com
+Next Network: info@nextnetwork.by
+Nezaboodka Software: contact@nezaboodka.com
+Nineseven: nine@nineseven.ru
+Nitka Technologies: igor.romanov@nitka.com
+Nord-Soft: contact@nord-soft.com
+Novacom: info@novacom.by
+NSITE STUDIO: box@nsite.by
+Ocean Development: alex@oceandev.io
+OCSICO: HR@ocsico.com
+Offsiteteam: hr@offsiteteam.com
+Olimpia: webolimpia@gmail.com
+OMERTEX: contact@omertex.com
+Omicron Soft: info@omicronsoftcompany.com
+On The Spot Development: elena.savchak@onthespotdev.com
+Onilab: talkto@onilab.com
+Onix: info@onix.by
+OOO "ЮВР": si@uvr.su
+OOO NORTH IT GROUP: viktoriya.harlan@northitgroup.com
+Orangesoft: hr@orangesoft.by
+Orion Soft: info@orionsoft.net
+Ormedia: info@ormedia.by

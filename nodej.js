@@ -1,8 +1,8 @@
 let puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-let from = 450; //start number of arrange
-let to = 500;//end of arrange
+let from = 700; //start number of arrange
+let to = 800;//end of arrange
 
 
 //request to one site of company
@@ -57,9 +57,11 @@ async function makeRequest(page, url) {
       });
     })
   };
-  let arrayNames = await getNames();  //get link-names of companies
+  let arrayNames = await getNames();  //get list link-names of companies
 
-
+  if(to > await arrayNames.length){
+    to = await arrayNames.length
+  }
   let tempar = await arrayNames.slice(from,to);
   let tasks = [];
   for (const url of await tempar) {
@@ -72,7 +74,7 @@ async function makeRequest(page, url) {
         for (let i = 0; i < tempar.length; i++) {
           if(res[i]){
             console.log(`${res[i][1]}: ${res[i][0]}`);
-            toWrite = toWrite.concat(`${res[i][1]}: ${res[i][0]}\n`);
+            toWrite = toWrite.concat(`${res[i][1].trim()}: ${res[i][0]}\n`);
           }
         }
         fs.appendFile(newFile,toWrite,err=>{
