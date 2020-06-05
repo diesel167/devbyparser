@@ -232,10 +232,9 @@ IHS Markit: jobminsk@ihsmarkit.com
 iKantam: support@ikantam.com
 ilavista: mail@ilavista.by
 INDI: hello@indi.by
-InGrid Lab: ⋯
+InGrid Lab: devteam@ingridlab.com
 inNativeLife / ShaurmaLab: innativelife@gmail.com
 InSales: hello@insales.by
-Inspectorio: ⋯
 intelex: contact@intelex.by
 INTELICO: connect@intelico.su
 Intellect IT: support@intellectit.by
@@ -285,7 +284,7 @@ Kontur: minsk-jobs@kontur.io
 KVITKI BY: info@kvitki.by
 Labinvent: info@labinvent.com
 Lamanteam: info@lamanteam.by
-Lansoft: ⋯
+Lansoft: info@lansoft.by
 Lepshey: info@lepshey.ru
 LeverX: careers@leverx.com
 lifetech: info@lifetech.by
@@ -353,3 +352,338 @@ OOO NORTH IT GROUP: viktoriya.harlan@northitgroup.com
 Orangesoft: hr@orangesoft.by
 Orion Soft: info@orionsoft.net
 Ormedia: info@ormedia.by
+outstaffing.me: contact@outstaffing.me
+Oxagile: pr@oxagile.com
+OZiTAG: v.ozierski@ozitag.com
+Palessit: alexi@palessit.com
+PandaDoc: hr-minsk@pandadoc.com
+Paprikash.Works: pw3695035@gmail.com
+ParaBox: kazbek@parabox.by
+Paralect: career@paralect.com
+Paspalum: info@paspalum.by
+Pax: job.magento@gmail.com
+Pay-Me: t.tsimbarevich@ssp-soft.by
+Payever: minsk@getpayever.com
+PHPDev: info@phpdev.org
+Piplos Media: info@piplos.by
+Pix Media: info@pix.by
+PixelPlex: info@pixelplex.by
+PJ Software: info@pj-software.com
+Postindustria: eugene.ivanou@postindustria.com
+PRAS: list@pras.by
+Productive Edge, LLC: pe-minsk@productiveedge.com
+Profitero: jobs@profitero.com
+ProgzIT: info@progz.ru
+Propellers: drozdov.a@propeller.by
+ProSites: info@prosites.by
+ProteiQ: a.strizhenok@proteiq.com
+PSA Development Center: hr@psa-software.com
+PST Labs LLC: info@pstlabs.by
+Pure: irina@pure.dating
+Qulix Systems: jobs@qulix.com
+Railsware: contact@railsware.com
+RaiseTech: contact@raisetech.net
+Razam Group: marketing@razam.bz
+Red Graphic Interactive Agency: info@redgraphic.com
+Red Technologies: info@redtechit.com
+RedFox (ООО "Ред Групп": info@redfox.by
+Redline: info@redline.by
+REDNAVIS: info@rednavis.com
+RedStream: info@redstream.by
+REID Consulting: info@realizeideas.net
+Revoltech LLC: office@revoltechgroup.com
+Revotech: v.zhdanovich@revotechs.com
+RINGL Technologies: business@ringl.by
+RiseArrow: info@risearrow.com
+Rocky Media: sales@rocky.by
+Rovensys: info@rovensys.by
+RozumSoft: info@rozumsoft.by
+RozumSystems: y.sidorevich@rozumsoft.by
+RT PROJECTS: gleb@razortheory.com
+Rubyroid Labs: hello@rubyroidlabs.com
+Runa Systems: info@runasystems.com
+Ryxol Solutions: i.hryhorchyk@ryxol.com
+SaM Solutions: hr@sam-solutions.by
+SASecurity Group: info@sasecurity.by
+Satellite Innovations, Inc.: eugenia@satelliteinnovations.com
+SCAND: info@scand.com
+SchoolBook: aleksei.cherkes@gmail.com
+ScienceSoft: job@scnsoft.com
+Scorum: hr@scorum.com
+Sellwin System: info@sellwin-system.by
+Semantica-IT: info@semantica.ru
+SENLA: sales@senlainc.com
+Sensor Tower: recruiting@sensortower.com
+Seodev: info@seodev.by
+SEOTAG: job@seotag.by
+Severex: a.danchenko@severex.io
+Sharekey: careers@sharekey.com
+Sheep Apps: hello@sheep-apps.com
+ShopTo.By: info@shopto.by
+Sideways 6: nikita.kudin@sideways6.com
+siera technolodji: info@siera.by
+Signals Lab: info@signals.by
+Simple Solutions: info@simple.solutions
+Singulart: hr@singulart.io
+Sirion Soft: sales@sirion-soft.com
+SITECH: n.pliskovskaya@sitech.by
+SiteFactory: shedy@inbox.ru
+SivinTech Group: lubachkin.dzmitry@gmail.com
+SKDO Systems: hello@skdo.systems
+Skywind Group: hr.by@skywindgroup.com
+SLAM: info@slam.by
+SLSgroup: v.bondarev@transinfo.by
+Smart IT: hr@smart-it.io
+SmartApp: mail@smartapptech.net
+SmartDesign: office@smartdesign.by
+SmartexLab: hr@smartexlab.com
+Smartym Pro: hr@smartym.pro
+Social Discovery Ventures: n.kolodinskaya@sdventures.com
+Soft4Brokers: r@s4b.ee
+Softacom: hr@softacom.com
+SoftClub: resume@softclub.by
+Softeq Development: hr@softeq.by
+Softgreat: anastasia@softgreat.com
+SoftMatrix: info@soft-matrix.com
+SoftonWay: p.lychkovskiy@softonway.by
+SoftTeco: info@softteco.com
+Solarwinds: MinskJobs@solarwinds.com
+SolbegSoft: job@solbeg.com
+Solid Expert: info@solidexpert.ltd
+Solvd, Inc.: lkuhareva@solvd.com
+SolveIt: hr@solveit.by
+SONETICO: info@sonetico.com
+SpaceDog: info@spacedog.by
+Sparkler Soft: sparklersoft@gmail.com
+Specific-Group: job.by@specific-group.com
+SpiralScout: olga.chadovich@spiralscout.com
+SpringWeb: manager@springweb.by
+Spritecs: info@spritecs.com
+SQILSOFT: info@sqil.by
+Staarter: irina.sainuk@staarter.com
+STACKLEVEL: office@stacklevel.org
+Starcostudio: info@starcostudio.com
+Start Matter: contact@startmatter.com
+Straut &amp; Skobelev: connect@straut-skobelev.com
+StyleSoft: info@stylesoft.by
+Success Craft: career.successcraft@gmail.com
+SumatoSoft: resume@sumatosoft.com
+SVAPS Systems: hr@svaps.com
+SWD: info@swd.studio
+SWS: krubis88@gmail.com
+Syberry: job@syberry.com
+SymfonyArt: contact@symfonyart.com
+Synesis sport: hr@synesis-sport.by
+Tanix Group: info@tanix.by
+Tapston: a.khanenya@tapston.com
+Taqtile: sergei.fedorenko@taqtile.com
+TargSoft: info@targsoftware.com
+TechMedia: manager@techmedia.by
+Techvice LLC: contact@techvice.org
+Tectus Media: ivan@tectus.by
+Telesphor Software: hr@telesphorus.by
+Teqniksoft: hr@teqniksoft.com
+TerraScale LLC: valentin.monosov@adshare.tv
+Texode Technologies: hr@texode.com
+The Landing Page: info@thelandingpage.by
+ThinkPay: hr@thinkpay.by
+Timvero: hello@timvero.com
+Toptal: dmitry@toptal.com
+TouchSoft: vpodmasko@touchsoft.by
+Track-POD: info@track-pod.com
+Trakhtenberg Consulting Agency: hr@tca.by
+TravelLine: Elena.mikhailik@travelline.by
+TravelSoft: info@travelsoft.by
+TravoLab: info@travo-lab.com
+TRexSoft: info@t-rex.by
+Turbomates Soft: info@turbomates.com
+TUT.BY / HOSTER.BY: info@relsoft.by
+Twistellar: hello@twistellar.com
+Unicoding: info@unicoding.by
+UNIQ Digital: info@uniq.by
+UPH Global: hello@uph-digital.com
+Upsilon-It: slava.ignatenko@upsilonit.com
+US Belar IT Group: dmalyshko@usbelar.com
+UserExperience: info@uex.by
+UXpresso: uxpresso@uxpresso.by
+Velmie: hello@velmie.com
+VelvetDEV: alex@velvet.by
+Vertic: vlad.khitrik@vertic.com.au
+VG Group: Info@vg-group.pro
+VIAcode: Oleg.Yeroshevich@viacode.com
+Viber: marina@viber.com
+Vigbo: hello@vigbo.com
+VironIT: cv@vironit.com
+Vivim: info@vivim.net
+Vladimir Kozlovsky Lab: welcome@kozlovskylab.com
+Voloshin IT Agency: kristina.k@voloshin.by
+VRP Consulting: hr@vrpconsulting.com
+vServices LTD: info@vservices.com
+Waste Logics Software Limited: hr@wastelogics.com
+WaveOC Pte Ltd.: hr@waveoc.com
+Weavora: ask@everhour.com
+Web Focus: info@webfocus.by
+Web VIKI: hr@webviki.by
+Web-agent.by: mail@web-agent.by
+Web-design Studio Company HoD: info@it-hod.com
+WebAtom: info@webatom.by
+Webbox: webboxby@gmail.com
+WebBuild: htmlcenter.by@gmail.com
+WebCat: info@webcat.by
+WebileSoft: info@webilesoft.com
+WebMatrix: info@webmatrix.by
+WebNewUp: info@webnewup.by
+WEBPAY (ООО "ВЕБ ПЭЙ"): office@webpay.by
+WebProfi.me: info@webprofi.me
+WebRocco: hr@webresolve.org
+WebSfera: dir@websfera.by
+Wedextim: info@wedextim.by
+Wellnuts creative group: info@wellnuts.by
+WERBDESIGN: info@werbdesign.com
+Wisercat Software: elena.shilova@wisercat.eu
+Wizart: ekaterina.smirnova@wizart.tech
+WM Reply: info@wmreply.by
+WordPress development agency "Seattleby": maksim@seattle.by
+WoxLink Development: marketing@woxlink.company
+WSP-Design: wspdesign@gmail.com
+XB Software: hr.managers@xbsoftware.com
+Xmark: info@xmark.dev
+XPGraph: contact@xpgraph.com
+XPRIDE: info@xpride.by
+YayFon Technologies: business@yayfon.com
+Yellow: hi@yellow.systems
+Yopolis Lab, LLC: elagonenko@yopolis.ru
+Z-Wolves Development: hr@zwolves.com
+Zensoft: jobs@zensoft.by
+Zifferblatt: zifferblatt.by@gmail.com
+Zorachka*: hr@zorachka.com
+ZubrSoft: info@zubrsoft.com
+Агентство Интернет Технологий: reg@agit.by
+Агентство комплексных решений "CHROME": evgenii@chr.by
+Азбука управления: info@8ka.by
+Алавир: info@alavir.by
+АлюсофтБел: job@alusoft.by
+Анталоджик: info@antalogic.com
+Ариол Медиа: info@ariol.by
+АртВэбБай: rover@artofweb.ru
+Байт протект: contact@byte-protect.com
+Белинфопортал: info@belinfoportal.by
+БЕЛСМАРТ СИСТЕМЫ: info@belsmart.by
+Букмекерская компания Maxline: pavel@maxline.by
+Веб Студия Tomson: xeniatomson@yandex.ru
+Веб-студия "Edulab": info@edulab.by
+Веб-студия "Пингвин": info@penguin.by
+Веб-студия IToblaka: 1sale@itoblaka.by
+Веб-студия VMN.BY: info@vmn.by
+Веб-студия Wecan: mb@wecan.by
+Веб-студия ВЭБЛАБ: info@wlab.by
+Визент Медиа: contact@wisent-media.by
+Виртуальный свет: info@virtuallight.by
+ВОТЕ ОХО: office@omut.biz
+ВОТКЛИК: votclick@gmail.com
+Гиперлинк, интернет-агентство: info@giperlink.by
+Глобал Диджитал Консалтинг: post@icoda.io
+ГородИнфо: web@gorodinfo.by
+Джей лаб: idea@jl.by
+Джет ФОРС: postmaster@jet-fors.ru
+Дизайн-бюро 2Geart: sm@2geart.com
+Единый Кошелек: by@walletone.com
+Иквадарт: info@iquadart.by
+ИМПА: impalab@gmail.com
+Инавеб: service@inaweb.by
+Индивидуальный предприниматель Курманов Иван Вячеславович: duraley@gmail.com
+Индивидуальный предприниматель Мельников Роман Валерьевич: roman_melnikov@tut.by
+Интернет Рынок: 5616161@tut.by
+ИП Андрей Кудрицкий: akudrytski@gmail.com
+ИП Гайдук Дмитрий Александрович: dementeyyy@gmail.com
+ИП Ремша Д.М.: hr@remsha.com
+ИП Терновский Артем Александрович: artsiom.tsernouski@sitewerk.ch
+ИП Филипович В.В.: vvf@cardone.by
+ИП Хотянович А.В.: alexhotianovich@gmail.com
+ИП Чалевич Н.В.: youarewelcome.it@gmail.com
+ИП,Горский А.Ю,: info@seoexpert.by
+ИУП "1С-Битрикс": Belarus@1c-bitrix.by
+КАМО АйТи: hr@camo-it.com.by
+Карголинк: g.petrovsky@cargolink.ru
+КасперСистемс: sp@kasper.by
+Креатек: waitresume@gmail.com
+Креатив-Лаборатория 82: 2392711@KL82.com
+Креативная Студия Кукушка: info.kukushka@mail.ru
+Лаборатория информационных технологий: general@i-mogilev.club
+Лайкит: info@likeit.by
+Лайм Медиа: INFO@LMEDIA.BY
+Лендинг Пейджес: info@landingpages.by
+Лингвистический софт: editor@language101.com
+Майхип: contact@migheap.com
+МАПСОФТ: marketing@mapsoft.by
+Масштабные решения: mr@mrsoft.by
+МегаСайтГрупп: megasaitgrupp@yandex.ru
+МигСофт: info@migsoft.by
+Настоящие Технологии ООО: info@truetech.by
+Наш Белый Дом: info@nbd.by
+НВП Модем: office@modem.by
+НЕКЛО: info@neklo.com
+НКА: nca@nca.by
+Огромная черепаха: info@hugeturtle.com
+ООО "АДМсолюшн": info@admport.by
+ООО "АпГруп": info@upgroup.by
+ООО "Байкард": info@bycard.by
+ООО "Бюро технологических решений": ss@techburo.by
+ООО "ВайФай Мэп": olga@wifimap.io
+ООО "ВебФокс": webfox@webfox.by
+ООО "ВКС Технологии и системы": office@vksgroup.by
+ООО "ВсетиБай": alenashavel@yandex.ru
+ООО "ГУДДИЛ": mail@goodmedia.biz
+ООО "ИнфоИдея": info@infoidea.by
+ООО "ИтерТех Инновэйшенс": office@itertech.by
+ООО "Лэмплайтер": a.isachenko@lamplighter.dev
+ООО "Тиспр": marya.kruhlikava@tispr.com
+ООО "Энвижен" (neoviso™): grigory@neoviso.com
+ООО «АскерВЕБ»: hr@askerweb.ru
+ООО «СофтЛид»: hr@weblid.biz
+ООО «ЭлитСофт»: info@elitesoft.by
+ООО ITT Communications: boris.lipkind@itt-us.com
+ООО БелТрасБилет: hr@beltransbilet.by
+ООО Инфотехнологии: ksyomushkina@minsk.ximxim.com
+ООО ИТР Софт: am@itr.com.by
+ООО СНМТ Технолоджис: contact@sunmait.com
+ООО Хаски медиа: hello@huskymedia.by
+ОТР: Babienko.vyacheslav@otr.ru
+Первая Линия: alvd7@yandex.ru
+ПКБ «Витебск»: 16@pkbasu.by
+Поток Проектов: sales@doctype.by
+Представительство PamConsult Gmbh в Минске: contact@pamconsult.by
+Прогрессив Софт: info@v-sage.by
+СайтФутур: manager@1st-studio.by
+Свой Сайт: info@svoisite.by
+Связьинвест: root@si.by
+Сеоклик/SeoClick: info@seoclick.by
+Сеотим Медиа / SEOTEAM: info@seoteam.by
+Сервис Ай-Ти: info@servit.by
+Системы для бизнеса: info@1sys.by
+Смартпро: info@smartpro.by
+Создание сайтов ALIVA: info@aliva.by
+Софтмакс системы телеметрии: info@softmax.by
+Спортдата: info@sportdata.by
+Старонка: hello@staronka.by
+Студия Борового: info@db.by
+Студия веб-дизайна DreamTeam: info@dteam.by
+Студия Райт: all@right.by
+Территория АйТи: info@it-territory.by
+Технологии Успеха: forum@tu.by
+ТКП-Софт: i.aniskevich@tcp-soft.com
+ТКсэт: m.golubeva@tcset.ru
+тотл центр групп: nionila@innotech-labs.com
+Фабрика брендов: info@fabrikabrendov.by
+ФП Трэйд: hr@fptrade.by
+Хэпикс: info@happix.by
+Центр банковских технологий: cbt@cbt.by
+Центр Интернет маркетинга: job@cim.by
+Центр инфо технологий: acsidian@gmail.com
+Центр Прогрессивных Разработок: alexandra.prus.velox@gmail.com
+Цифровое агентство ВИДЖЕТСОФТ: info@widgetsoft.pro
+Эйво: info@avo.by
+Экстмедиа: info@extmedia.com
+ЭмпатиБай: info@empathy.by
+ЭнкиСофт: hr@enkisoft.by
+ЭстерСтар: inbox@ester.co

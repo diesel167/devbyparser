@@ -1,8 +1,8 @@
 let puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-let from = 700; //start number of arrange
-let to = 800;//end of arrange
+let from = 1600; //start number of arrange
+let to = 1700;//end of arrange
 
 
 //request to one site of company
